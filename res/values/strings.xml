@@ -21,6 +21,7 @@
     <string name="recommended_title">Recommended</string>
     <string name="more_free_apps_label">More FREE Apps</string>
     <string name="main_setting_label">Settings</string>
+	<string name="main_setting_label_plus">Settings(Plus)</string>
     <string name="more_label">More</string>
     <string name="share_this_app_label">Share This App</string>
     <string name="set_lwp_label">Set Wallpaper</string>
@@ -57,11 +58,26 @@
 	<string name="settings_autoPlay_sum">ON / OFF</string>
 	<string name="settings_particle_title">Particle</string>
 	<string name="main_game_label">Game</string>
+	<string name="settings_conste_title">Constellation</string>
+	<string name="settings_conste_0_title">North Star</string>
+	<string name="settings_conste_1_title">Aquarius (1.20 ~ 2.18)</string>
+	<string name="settings_conste_2_title">Pisces (2.19 ~ 3.20)</string>
+	<string name="settings_conste_3_title">Aries (3.21 ~ 4.19)</string>
+	<string name="settings_conste_4_title">Taurus (4.20 ~ 5.20)</string>
+	<string name="settings_conste_5_title">Gemini (5.21 ~ 6.21)</string>
+	<string name="settings_conste_6_title">Cancer (6.22 ~ 7.22)</string>
+	<string name="settings_conste_7_title">Leo (7.23 ~ 8.22)</string>
+	<string name="settings_conste_8_title">Virgo (8.23 ~ 9.22)</string>
+	<string name="settings_conste_9_title">Libra (9.23 ~ 10.23)</string>
+	<string name="settings_conste_10_title">Scorpius (10.24 ~ 11.22)</string>
+	<string name="settings_conste_11_title">Sagittarius (11.23 ~ 12.21)</string>
+	<string name="settings_conste_12_title">Capricorn (12.22 ~ 1.19)</string>
 
 	<string name="settings_light_title">Light</string>
 	<string name="settings_effect_mode_title">Bubble / Light</string>
 	<string name="settings_flower_title">Flower</string>
 	<string name="settings_effect_flower_title">Flower / Light</string>
+	<string name="settings_snow_title">Snow</string>
 
 	<string name="settings_particle_touch_title">Touch effect</string>
 	<string name="settings_particle_mode_title">Display mode</string>
@@ -71,9 +87,11 @@
 	<string name="settings_select_colors_title">Colors</string>
 	<string name="settings_smooth_title">Smooth</string>
 
+	<string name="settings_brightness_title">Brightness</string>
 	<string name="settings_particle_path_title">Direction</string>
 	<string name="settings_autoColor_title">Auto Color</string>
-
+	<string name="main_dialog_upgrade">Upgrade to Plus</string>
+	<string name="main_dialog_ok">OK</string>
     <!--ripple optional-->
     <string name="settings_ripple_title">Water Drop</string>
     <string name="settings_ripple_drag_title">Dragging</string>
@@ -103,10 +121,6 @@
 	<string name="settings_path_righttop_title">Upper-right</string>
     <!-- end -->
 
-	<string name="settings_snow_title">Snow</string>
-	<string name="settings_brightness_title">Brightness</string>
-
-
-	<string name="app_name">Galaxy Flowers</string>
-	<string name="settings_activity">com.landscapelwp.flower.ActivityS</string>
+	<string name="app_name">App name</string>
+	<string name="settings_activity">ActivitySetting</string>
 </resources>

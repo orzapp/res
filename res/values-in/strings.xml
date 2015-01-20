@@ -7,6 +7,7 @@
     <string name="recommended_title">Direkomendasikan</string>
     <string name="more_free_apps_label">Lain GRATIS apps</string>
     <string name="main_setting_label">Pengaturan</string>
+	<string name="main_setting_label_plus">Pengaturan(Plus)</string>
     <string name="settings_bg_title">Latar</string>
     <string name="settings_quantity_title">Kuantitas</string>
     <string name="settings_size_title">Ukuran</string>
@@ -94,8 +95,7 @@
     <string name="settings_path_righttop_title">kanan atas</string>
     <!-- end -->
     <string name="settings_snow_title">salju</string>
-    <string name="settings_brightness_title">kecerahan</string>
-
+	<string name="settings_brightness_title">kecerahan</string>
     <string name="settings_particle_path_title">arah</string>
     <string name="settings_autoColor_title">berubah warna otomatis</string>
 

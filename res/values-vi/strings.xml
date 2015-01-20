@@ -7,6 +7,7 @@
     <string name="recommended_title">Đê</string>
     <string name="more_free_apps_label">Ứng dụng miễn phí</string>
     <string name="main_setting_label">Cài đặt</string>
+	<string name="main_setting_label_plus">Cài đặt(Plus)</string>
     <string name="settings_bg_title">Bối cảnh</string>
     <string name="settings_quantity_title">Số lượng</string>
     <string name="settings_size_title">Kích</string>
@@ -91,8 +92,7 @@
     <string name="settings_path_righttop_title">trên bên phải</string>
     <!-- end -->
     <string name="settings_snow_title">tuyết</string>
-    <string name="settings_brightness_title">độ sáng</string>
-
+	<string name="settings_brightness_title">độ sáng</string>
     <string name="settings_particle_path_title">hướng</string>
     <string name="settings_autoColor_title">tự động thay đổi màu sắc</string>
 </resources>

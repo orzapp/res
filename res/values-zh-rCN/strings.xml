@@ -20,6 +20,7 @@
 	<string name="more_free_apps_label">更多免费APP</string>
 	<string name="share_this_app_label">分享这个程序</string>
 	<string name="main_setting_label">设置</string>
+	<string name="main_setting_label_plus">设置(Plus)</string>
 	<string name="set_lwp_label">设置壁纸</string>
 	<string name="recommended_title">推荐</string>
 	<string name="sponsored_label">赞助</string>
@@ -56,12 +57,27 @@
 	<string name="settings_bubble_title">泡泡</string>
 	<string name="settings_particle_title">粒子</string>
 	<string name="main_game_label">开始游戏</string>
+	<string name="settings_conste_title">星座</string>
+	<string name="settings_conste_0_title">北极星</string>
+	<string name="settings_conste_1_title">水瓶座 (1.20 ~ 2.18)</string>
+	<string name="settings_conste_2_title">双鱼座 (2.19 ~ 3.20)</string>
+	<string name="settings_conste_3_title">白羊座 (3.21 ~ 4.19)</string>
+	<string name="settings_conste_4_title">金牛座 (4.20 ~ 5.20)</string>
+	<string name="settings_conste_5_title">双子座 (5.21 ~ 6.21)</string>
+	<string name="settings_conste_6_title">巨蟹座 (6.22 ~ 7.22)</string>
+	<string name="settings_conste_7_title">狮子座 (7.23 ~ 8.22)</string>
+	<string name="settings_conste_8_title">处女座 (8.23 ~ 9.22)</string>
+	<string name="settings_conste_9_title">天秤座 (9.23 ~ 10.23)</string>
+	<string name="settings_conste_10_title">天蝎座 (10.24 ~ 11.22)</string>
+	<string name="settings_conste_11_title">射手座 (11.23 ~ 12.21)</string>
+	<string name="settings_conste_12_title">摩羯座 (12.22 ~ 1.19)</string>
 
 	<string name="settings_light_title">光子</string>
 	<string name="settings_effect_mode_title">泡泡 / 光子</string>
 	<string name="settings_flower_title">花</string>
 	<string name="settings_effect_flower_title">花 / 光子</string>
-
+	<string name="settings_snow_title">雪</string>
+	<string name="settings_brightness_title">亮度</string>
 	<string name="settings_particle_touch_title">触摸效果</string>
 	<string name="settings_particle_mode_title">显示模式</string>
 	<string name="settings_particle_mode_always_title">始终可见</string>
@@ -71,6 +87,8 @@
 	<string name="settings_smooth_title">平滑</string>
 	<string name="settings_particle_path_title">方向</string>
 	<string name="settings_autoColor_title">自动换颜色</string>
+	<string name="main_dialog_upgrade">升级到Plus</string>
+	<string name="main_dialog_ok">确定</string>
     <!--ripple optional-->
     <string name="settings_ripple_title">水滴</string>
     <string name="settings_ripple_drag_title">拖动</string>
@@ -98,10 +116,9 @@
 	<string name="settings_path_rightbottom_title">右下</string>
 	<string name="settings_path_lefttop_title">左上</string>
 	<string name="settings_path_righttop_title">右上</string>
-    <!-- end -->
-	<string name="settings_snow_title">雪</string>
-	<string name="settings_brightness_title">亮度</string>
 
-	<string name="app_name">Galaxy 花</string>
+    <!-- end -->
+
+	<string name="app_name">app name</string>
 
 </resources>

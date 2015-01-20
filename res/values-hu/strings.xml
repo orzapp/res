@@ -7,6 +7,7 @@
     <string name="recommended_title">Ajánlott</string>
     <string name="more_free_apps_label">Más INGYENES Apps</string>
     <string name="main_setting_label">Beállítások</string>
+	<string name="main_setting_label_plus">Beállítások(Plus)</string>
     <string name="settings_bg_title">Háttér</string>
     <string name="settings_quantity_title">Mennyiség</string>
     <string name="settings_size_title">Méret</string>
@@ -94,8 +95,7 @@
     <string name="settings_path_righttop_title">jobb felső</string>
     <!-- end -->
     <string name="settings_snow_title">hó</string>
-    <string name="settings_brightness_title">fényesség</string>
-    
+	<string name="settings_brightness_title">fényesség</string>
     <string name="settings_particle_path_title">irány</string>
     <string name="settings_autoColor_title">auto színe megváltozik</string>
 </resources>

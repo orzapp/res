@@ -7,6 +7,7 @@
     <string name="recommended_title">추천</string>
     <string name="more_free_apps_label">무료 애플 리케이션</string>
     <string name="main_setting_label">설정</string>
+	<string name="main_setting_label_plus">설정(Plus)</string>
     <string name="settings_bg_title">배경</string>
     <string name="settings_quantity_title">양</string>
     <string name="settings_size_title">크기</string>
@@ -93,8 +94,7 @@
     <string name="settings_path_righttop_title">오른쪽 위</string>
     <!-- end -->
     <string name="settings_snow_title">눈</string>
-    <string name="settings_brightness_title">명도</string>
-
+	<string name="settings_brightness_title">명도</string>
     <string name="settings_particle_path_title">방향</string>
     <string name="settings_autoColor_title">자동 색상 변경</string>
 </resources>

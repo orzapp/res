@@ -7,6 +7,7 @@
     <string name="recommended_title">推奨さ</string>
     <string name="more_free_apps_label">無料アプリ</string>
     <string name="main_setting_label">設定</string>
+	<string name="main_setting_label_plus">設定(Plus)</string>
     <string name="settings_bg_title">背景</string>
     <string name="settings_quantity_title">数量</string>
     <string name="settings_size_title">サイズ</string>
@@ -93,8 +94,7 @@
     <string name="settings_path_righttop_title">右上</string>
     <!-- end -->
     <string name="settings_snow_title">雪</string>
-    <string name="settings_brightness_title">明るさ</string>
-
+	<string name="settings_brightness_title">明るさ</string>
     <string name="settings_particle_path_title">方向</string>
     <string name="settings_autoColor_title">オートチェンジカラー</string>
 </resources>

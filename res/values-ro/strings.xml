@@ -7,6 +7,7 @@
     <string name="recommended_title">Recomandat</string>
     <string name="more_free_apps_label">Alte Aplicații Gratuite</string>
     <string name="main_setting_label">Setări</string>
+	<string name="main_setting_label_plus">Setări(Plus)</string>
     <string name="settings_bg_title">Fundal</string>
     <string name="settings_quantity_title">Cantitate</string>
     <string name="settings_size_title">Dimensiune</string>
@@ -91,8 +92,7 @@
     <string name="settings_path_righttop_title">din dreapta sus</string>
     <!-- end -->
     <string name="settings_snow_title">zăpadă</string>
-    <string name="settings_brightness_title">strălucire</string>
-
+	<string name="settings_brightness_title">strălucire</string>
     <string name="settings_particle_path_title">direcție</string>
     <string name="settings_autoColor_title">schimbare automată culoare</string>
 </resources>

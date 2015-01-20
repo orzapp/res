@@ -7,6 +7,7 @@
     <string name="recommended_title">Рекомендований</string>
     <string name="more_free_apps_label">Безкоштовні програми</string>
     <string name="main_setting_label">Налаштування</string>
+	<string name="main_setting_label_plus">Налаштування(Plus)</string>
     <string name="settings_bg_title">Фон</string>
     <string name="settings_quantity_title">Кількість</string>
     <string name="settings_size_title">Розмір</string>
@@ -97,8 +98,7 @@
     <string name="settings_path_righttop_title">верхній правий</string>
     <!-- end -->
     <string name="settings_snow_title">сніг</string>
-    <string name="settings_brightness_title">яскравість</string>
-
+	<string name="settings_brightness_title">яскравість</string>
     <string name="settings_particle_path_title">напрямок</string>
     <string name="settings_autoColor_title">Колір автоматичне зміна</string>
 
