@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Japanese-->
+	<string name="more_devid_apps_label">その他の ライブ壁紙</string>
+	<string name="comment_this_app_label">レビュー</string>
+    <string name="sponsored_label">スポンサー</string>
+    <string name="recommended_title">推奨さ</string>
+    <string name="more_free_apps_label">無料アプリ</string>
+    <string name="main_setting_label">設定</string>
+    <string name="settings_bg_title">背景</string>
+    <string name="settings_quantity_title">数量</string>
+    <string name="settings_size_title">サイズ</string>
+    <string name="settings_speed_title">速度</string>
+    <string name="settings_rotation_title">回転</string>
+    <string name="settings_scrolling_title">スクローリング</string>
+    <string name="settings_touch_title">触れ</string>
+    <string name="settings_localimage_title">カスタム写真</string>
+    <string name="load_image_title">写真を読み込む</string>
+    <string name="more_label">その他の</string>
+    <string name="share_this_app_label">共有このアプリ</string>
+    <string name="set_lwp_label">壁紙を設定</string>
+	<string name="settings_daydream_title">スクリーンセーバー</string>
+	<string name="settings_Interactive_title">触れる	クローズ</string>
+	<string name="main_removead_label">広告を削除</string>
+
+    <string name="settings_fps">パワーセーブモード</string>
+    <string name="settings_3d">3D モード</string>
+    <string name="settings_fps_sum">オン / オフ</string>
+    <string name="settings_particle_open">粒子</string>
+    <string name="settings_particle_quantity">泡の数</string>
+    <string name="settings_particle_key_title">バブル</string>
+    <string name="settings_particle_size">大小</string>
+    <string name="settings_particle_speed">気泡速度</string>
+    <string name="settings_particle_scroll">クリック / スライド</string>
+    <string name="settings_scroll">スライド</string>
+    <string name="settings_playmode">再生モード</string>
+    <string name="settings_select_myimage">壁紙を選択</string>
+
+
+    <string name="settings_scroll_sum">バックグラウンドを移動するスライド</string>
+    <string name="settings_scroll_speed">スライド速度</string>
+
+    <string name="settings_particle_parallax">視差</string>
+    <string name="settings_parallax_mode">視差モード</string>
+
+
+
+    <string name="settings_rain_title">雨</string>
+    <string name="settings_magic">マジック</string>
+    <string name="settings_magic_sum">試してお使いの携帯電話を振る?</string>
+    <string name="settings_remove_icon_title">アプリのアイコンを削除</string>
+    <string name="settings_remove_icon_sum">アプリのアイコンを削除，再起動する必要があります</string>
+    <string name="settings_autoPlay_title">自動再生</string>
+    <string name="settings_autoPlay_sum">オン / オフ</string>
+    <string name="settings_star_title">スター</string>
+    <string name="settings_bubble_title">バブル</string>
+    <string name="settings_particle_title">粒子</string>
+    <string name="main_game_label">遊ぶ</string>
+
+    <string name="settings_light_title">光子</string>
+    <string name="settings_effect_mode_title">バブル / 光子</string>
+    <string name="settings_flower_title">フラワーズ</string>
+    <string name="settings_effect_flower_title">フラワーズ / 光子</string>
+
+    <string name="settings_particle_touch_title">効果をタッチ</string>
+    <string name="settings_particle_mode_title">表示モード</string>
+    <string name="settings_particle_mode_always_title">常に目に見える</string>
+    <string name="settings_particle_mode_flash_title">迫り来る</string>
+
+    <!--ripple optional-->
+    <string name="settings_ripple_title">水滴</string>
+    <string name="settings_ripple_drag_title">ドラッグ</string>
+    <string name="settings_ripple_sound_title">聞こえる</string>
+    <!--end-->
+    <!-- array value-->
+    <string name="settings_less_title">少ない</string>
+    <string name="settings_normal_title">正常</string>
+    <string name="settings_more_title">より多く</string>
+
+    <string name="settings_small_title">小</string>
+    <string name="settings_large_title">大</string>
+
+    <string name="settings_slow_title">遅い</string>
+    <string name="settings_fast_title">高速</string>
+
+    <string name="settings_path_top_title">アップ</string>
+    <string name="settings_path_bottom_title">ダウン</string>
+    <string name="settings_path_left_title">左</string>
+    <string name="settings_path_right_title">権利</string>
+    <string name="settings_path_leftbottom_title">左下</string>
+    <string name="settings_path_rightbottom_title">右下</string>
+    <string name="settings_path_lefttop_title">左上</string>
+    <string name="settings_path_righttop_title">右上</string>
+    <!-- end -->
+    <string name="settings_snow_title">雪</string>
+    <string name="settings_brightness_title">明るさ</string>
+
+    <string name="settings_particle_path_title">方向</string>
+    <string name="settings_autoColor_title">オートチェンジカラー</string>
+</resources>

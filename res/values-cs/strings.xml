@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Czech-->
+	<string name="more_devid_apps_label">Více Živé tapety</string>
+	<string name="comment_this_app_label">Komentář</string>
+    <string name="sponsored_label">Sponzorované</string>
+    <string name="recommended_title">Doporučené</string>
+    <string name="more_free_apps_label">Další ZDARMA Apps</string>
+    <string name="main_setting_label">Nastavení</string>
+    <string name="settings_bg_title">Pozadí</string>
+    <string name="settings_quantity_title">Množství</string>
+    <string name="settings_size_title">Velikost</string>
+    <string name="settings_speed_title">Rychlost</string>
+    <string name="settings_rotation_title">Rotace</string>
+    <string name="settings_scrolling_title">Posouvání</string>
+    <string name="settings_touch_title">Dotkněte</string>
+    <string name="settings_localimage_title">Vlastní foto</string>
+    <string name="load_image_title">Vložte foto</string>
+    <string name="more_label">Více</string>
+    <string name="share_this_app_label">Sdílet tuto aplikaci</string>
+    <string name="set_lwp_label">Nastavit jako tapetu</string>
+	<string name="settings_daydream_title">Spořič obrazovky</string>
+	<string name="settings_Interactive_title">Dotek Zavřít</string>
+	<string name="main_removead_label">Odstranit reklamy</string>
+
+
+    <string name="settings_fps">Režimu úspory energie</string>
+    <string name="settings_3d">3D režim</string>
+    <string name="settings_fps_sum">otevřeno / zavřeno</string>
+    <string name="settings_particle_open">částic</string>
+    <string name="settings_particle_quantity">bublina částka</string>
+    <string name="settings_particle_key_title">bublina</string>
+    <string name="settings_particle_size">velikost</string>
+    <string name="settings_particle_speed">bublina rychlost</string>
+    <string name="settings_particle_scroll">Klepněte / skluzavka</string>
+    <string name="settings_scroll">skluzavka</string>
+    <string name="settings_playmode">hrát režim</string>
+    <string name="settings_select_myimage">vybrat tapety</string>
+
+
+    <string name="settings_scroll_sum">snímek obrazovky řídit pozadí</string>
+    <string name="settings_scroll_speed">skluzavka rychlost</string>
+
+    <string name="settings_particle_parallax">paralaxa</string>
+    <string name="settings_parallax_mode">paralaxa režim</string>
+
+
+
+    <string name="settings_rain_title">dešťová kapka</string>
+    <string name="settings_magic">kouzlo</string>
+    <string name="settings_magic_sum">potřást telefon?</string>
+    <string name="settings_remove_icon_title">odstranit ikonu aplikace</string>
+    <string name="settings_remove_icon_sum">odstranit ikonu aplikace，potřebují restart</string>
+    <string name="settings_autoPlay_title">autoplay</string>
+    <string name="settings_autoPlay_sum">otevřeno / zavřeno</string>
+    <string name="settings_star_title">hvězdy</string>
+    <string name="settings_bubble_title">bublina</string>
+    <string name="settings_particle_title">částic</string>
+    <string name="main_game_label">spustit hru</string>
+
+    <string name="settings_light_title">světlo</string>
+    <string name="settings_effect_mode_title">bublina / světlo</string>
+    <string name="settings_flower_title">květina</string>
+    <string name="settings_effect_flower_title">květina / světlo</string>
+
+    <string name="settings_particle_touch_title">dotek účinek</string>
+    <string name="settings_particle_mode_title">zobrazení režim</string>
+    <string name="settings_particle_mode_always_title">vždy viditelný</string>
+    <string name="settings_particle_mode_flash_title">lze vidět někdy</string>
+
+    <!--ripple optional-->
+    <string name="settings_ripple_title">kapka vody</string>
+    <string name="settings_ripple_drag_title">Přetažení</string>
+    <string name="settings_ripple_sound_title">zvuk</string>
+    <!--end-->
+
+    <!-- array value-->
+    <string name="settings_less_title">Méně</string>
+    <string name="settings_normal_title">Normální</string>
+    <string name="settings_more_title">Více</string>
+
+    <string name="settings_small_title">Malé</string>
+    <string name="settings_large_title">Velký</string>
+
+    <string name="settings_slow_title">Pomalu</string>
+    <string name="settings_fast_title">Rychle</string>
+
+    <string name="settings_path_top_title">nahoru</string>
+    <string name="settings_path_bottom_title">dolů</string>
+    <string name="settings_path_left_title">vlevo</string>
+    <string name="settings_path_right_title">právo</string>
+    <string name="settings_path_leftbottom_title">levý dolní</string>
+    <string name="settings_path_rightbottom_title">Pravý dolní</string>
+    <string name="settings_path_lefttop_title">levé horní</string>
+    <string name="settings_path_righttop_title">pravý horní</string>
+    <!-- end -->
+    <string name="settings_snow_title">sníh</string>
+    <string name="settings_brightness_title">jas</string>
+
+    <string name="settings_particle_path_title">směr</string>
+    <string name="settings_autoColor_title">Automatická změna barvy</string>
+
+
+
+
+</resources>

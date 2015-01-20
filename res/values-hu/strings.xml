@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Hungarian-->
+	<string name="more_devid_apps_label">Más Élő Háttérkép</string>
+	<string name="comment_this_app_label">vélemények</string>
+    <string name="sponsored_label">Szponzorált</string>
+    <string name="recommended_title">Ajánlott</string>
+    <string name="more_free_apps_label">Más INGYENES Apps</string>
+    <string name="main_setting_label">Beállítások</string>
+    <string name="settings_bg_title">Háttér</string>
+    <string name="settings_quantity_title">Mennyiség</string>
+    <string name="settings_size_title">Méret</string>
+    <string name="settings_speed_title">Sebesség</string>
+    <string name="settings_rotation_title">Forgás</string>
+    <string name="settings_scrolling_title">Gördülő</string>
+    <string name="settings_touch_title">Érintse</string>
+    <string name="settings_localimage_title">Egyedi fénykép</string>
+    <string name="load_image_title">Betöltése fényképo</string>
+    <string name="more_label">Más</string>
+    <string name="share_this_app_label">Ossza meg Ez app</string>
+    <string name="set_lwp_label">Háttérkép beállítása</string>
+	<string name="main_removead_label">Eltávolítása hirdetések</string>
+
+    <string name="settings_fps">energiát takarít meg</string>
+    <string name="settings_3d">3D mód</string>
+    <string name="settings_fps_sum">nyitott / zárt</string>
+    <string name="settings_particle_open">részecske</string>
+    <string name="settings_particle_quantity">buborék összeg</string>
+    <string name="settings_particle_key_title">buborék</string>
+    <string name="settings_particle_size">méret</string>
+    <string name="settings_particle_speed">buborék sebesség</string>
+    <string name="settings_particle_scroll">Kattintson az / csúszik</string>
+    <string name="settings_scroll">csúszik</string>
+    <string name="settings_playmode">színdarab mód</string>
+    <string name="settings_select_myimage">választani tapéta</string>
+
+
+    <string name="settings_daydream_title">képernyővédő</string>
+    <string name="settings_Interactive_title">érintse zárt</string>
+
+    <string name="settings_scroll_sum">dia mozogni háttér</string>
+    <string name="settings_scroll_speed">csúszik sebesség</string>
+
+    <string name="settings_particle_parallax">parallaxis</string>
+    <string name="settings_parallax_mode">parallaxis mód</string>
+
+
+
+    <string name="settings_rain_title">esőcsepp</string>
+    <string name="settings_magic">varázslat</string>
+    <string name="settings_magic_sum">rázza a készülék?</string>
+    <string name="settings_remove_icon_title">eltávolítani app ikon</string>
+    <string name="settings_remove_icon_sum">eltávolítani app ikon，talán újraindítás</string>
+    <string name="settings_autoPlay_title">Automatikus lejátszás</string>
+    <string name="settings_autoPlay_sum">nyitott / zárt</string>
+    <string name="settings_star_title">csillag</string>
+    <string name="settings_bubble_title">buborék</string>
+    <string name="settings_particle_title">részecske</string>
+    <string name="main_game_label">a játék indításához</string>
+
+    <string name="settings_light_title">fény</string>
+    <string name="settings_effect_mode_title">buborék / fény</string>
+    <string name="settings_flower_title">virág</string>
+    <string name="settings_effect_flower_title">virág / fény</string>
+
+    <string name="settings_particle_touch_title">érintés hatás</string>
+    <string name="settings_particle_mode_title">kijelző mód</string>
+    <string name="settings_particle_mode_always_title">mindig látható</string>
+    <string name="settings_particle_mode_flash_title">látva néha</string>
+
+    <!--ripple optional-->
+    <string name="settings_ripple_title">vízcsepp</string>
+    <string name="settings_ripple_drag_title">húzás</string>
+    <string name="settings_ripple_sound_title">hang</string>
+    <!--end-->
+    <!-- array value-->
+    <string name="settings_less_title">Kevesebb</string>
+    <string name="settings_normal_title">Rendes</string>
+    <string name="settings_more_title">Több</string>
+
+    <string name="settings_small_title">Kicsi</string>
+    <string name="settings_large_title">Nagy</string>
+
+    <string name="settings_slow_title">Lassíts</string>
+    <string name="settings_fast_title">Gyors</string>
+
+    <string name="settings_path_top_title">up</string>
+    <string name="settings_path_bottom_title">le</string>
+    <string name="settings_path_left_title">balra</string>
+    <string name="settings_path_right_title">jobb</string>
+    <string name="settings_path_leftbottom_title">bal alsó</string>
+    <string name="settings_path_rightbottom_title">jobb alsó</string>
+    <string name="settings_path_lefttop_title">bal felső</string>
+    <string name="settings_path_righttop_title">jobb felső</string>
+    <!-- end -->
+    <string name="settings_snow_title">hó</string>
+    <string name="settings_brightness_title">fényesség</string>
+    
+    <string name="settings_particle_path_title">irány</string>
+    <string name="settings_autoColor_title">auto színe megváltozik</string>
+</resources>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Dutch-->
+	<string name="more_devid_apps_label">Meer dynamisch Achtergrond</string>
+	<string name="comment_this_app_label">commentaar</string>
+    <string name="sponsored_label">Gesponsorde</string>
+    <string name="recommended_title">Aanbevolen</string>
+    <string name="more_free_apps_label">Meer GRATIS Apps</string>
+    <string name="main_setting_label">Instellingen</string>
+    <string name="settings_bg_title">Achtergrond</string>
+    <string name="settings_quantity_title">Qoeveelheid</string>
+    <string name="settings_size_title">Maat</string>
+    <string name="settings_speed_title">Snelheid</string>
+    <string name="settings_rotation_title">Omwenteling</string>
+    <string name="settings_scrolling_title">Scrollen</string>
+    <string name="settings_touch_title">Raak</string>
+    <string name="settings_localimage_title">Foto van de Douane</string>
+    <string name="load_image_title">Plaats fotopapier</string>
+    <string name="more_label">Meer</string>
+    <string name="share_this_app_label">Deel deze applicatie</string>
+    <string name="set_lwp_label">Stel Wallpaper</string>
+	<string name="main_removead_label">Verwijder Ads</string>
+
+    <string name="settings_fps">vermogen mode</string>
+    <string name="settings_3d">3D mode</string>
+    <string name="settings_fps_sum">geopend / gesloten</string>
+    <string name="settings_particle_open">deeltje</string>
+    <string name="settings_particle_quantity">Bubble hoeveelheid</string>
+    <string name="settings_particle_key_title">Bubble</string>
+    <string name="settings_particle_size">grootte</string>
+    <string name="settings_particle_speed">Bubble snelheid</string>
+    <string name="settings_particle_scroll">klik / slide</string>
+    <string name="settings_scroll">slide</string>
+    <string name="settings_playmode">afspeelmodus</string>
+    <string name="settings_select_myimage">kiezen achtergrond</string>
+
+
+    <string name="settings_daydream_title">screensaver</string>
+    <string name="settings_Interactive_title">Raak gesloten</string>
+
+    <string name="settings_scroll_sum">Schuif het scherm om de achtergrond beweging te controleren</string>
+    <string name="settings_scroll_speed">slide snelheid</string>
+
+    <string name="settings_particle_parallax">parallax</string>
+    <string name="settings_parallax_mode">parallax mode</string>
+
+
+
+    <string name="settings_rain_title">regendruppel</string>
+    <string name="settings_magic">magic</string>
+    <string name="settings_magic_sum">schud je handset?</string>
+    <string name="settings_remove_icon_title">verwijderen app icoon</string>
+    <string name="settings_remove_icon_sum">verwijderen app icoon，misschien reboot veroorzaken</string>
+    <string name="settings_autoPlay_title">Autoplay</string>
+    <string name="settings_autoPlay_sum">geopend / gesloten</string>
+    <string name="settings_star_title">sterren</string>
+    <string name="settings_bubble_title">Bubble</string>
+    <string name="settings_particle_title">deeltje</string>
+    <string name="main_game_label">start spel</string>
+
+    <string name="settings_light_title">licht</string>
+    <string name="settings_effect_mode_title">Bubble / licht</string>
+    <string name="settings_flower_title">bloem</string>
+    <string name="settings_effect_flower_title">bloem / licht</string>
+
+    <string name="settings_particle_touch_title">Raak effect</string>
+    <string name="settings_particle_mode_title">scherm mode</string>
+    <string name="settings_particle_mode_always_title">altijd zichtbaar</string>
+    <string name="settings_particle_mode_flash_title">soms zien</string>
+
+    <!--ripple optional-->
+    <string name="settings_ripple_title">waterdruppel</string>
+    <string name="settings_ripple_drag_title">slepen</string>
+    <string name="settings_ripple_sound_title">klinken</string>
+    <!--end-->
+    <!-- array value-->
+    <string name="settings_less_title">Minder</string>
+    <string name="settings_normal_title">Normaal</string>
+    <string name="settings_more_title">Meer</string>
+
+    <string name="settings_small_title">Klein</string>
+    <string name="settings_large_title">Groot</string>
+
+    <string name="settings_slow_title">Langzaam</string>
+    <string name="settings_fast_title">Snel</string>
+
+    <string name="settings_path_top_title">up</string>
+    <string name="settings_path_bottom_title">naar beneden</string>
+    <string name="settings_path_left_title">links</string>
+    <string name="settings_path_right_title">rechts</string>
+    <string name="settings_path_leftbottom_title">linkerbenedenhoek</string>
+    <string name="settings_path_rightbottom_title">rechterbenedenhoek</string>
+    <string name="settings_path_lefttop_title">linksboven</string>
+    <string name="settings_path_righttop_title">rechterbovenhoek</string>
+    <!-- end -->
+    <string name="settings_snow_title">sneeuw</string>
+    <string name="settings_brightness_title">helderheid</string>
+
+    <string name="settings_particle_path_title">richting</string>
+    <string name="settings_autoColor_title">automatisch van kleur veranderen</string>
+</resources>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Greek-->
+	<string name="more_devid_apps_label">Περισσότερα Ζωντανή ταπετσαρία</string>
+	<string name="comment_this_app_label">Κριτικές</string>
+    <string name="sponsored_label">Σύνδεσμοι</string>
+    <string name="recommended_title">Προτεινόμενα</string>
+    <string name="more_free_apps_label">Άλλες Apps ΔΩΡΕΑΝ</string>
+    <string name="main_setting_label">Ρυθμίσεις</string>
+    <string name="settings_bg_title">Φόντο</string>
+    <string name="settings_quantity_title">Ποσότητα</string>
+    <string name="settings_size_title">Μέγεθος</string>
+    <string name="settings_speed_title">Ταχύτητα</string>
+    <string name="settings_rotation_title">Περιστροφή</string>
+    <string name="settings_scrolling_title">Κύλιση</string>
+    <string name="settings_touch_title">Αγγίξτε</string>
+    <string name="settings_localimage_title">Προσαρμοσμένη φωτογραφία</string>
+    <string name="load_image_title">Φορτώστε φωτογραφίες</string>
+    <string name="more_label">Άλλος</string>
+    <string name="share_this_app_label">Μοιραστείτε αυτό το app</string>
+    <string name="set_lwp_label">Ορισμός ταπετσαρίας</string>
+	<string name="main_removead_label">Απομάκρυνση διαφημίσεων</string>
+
+    <string name="settings_fps">λειτουργία εξοικονόμησης ενέργειας</string>
+    <string name="settings_3d">3D λειτουργία</string>
+    <string name="settings_fps_sum">ανοιχτή / κλειστά</string>
+    <string name="settings_particle_open">σωματιδίων</string>
+    <string name="settings_particle_quantity">φούσκα ποσό</string>
+    <string name="settings_particle_key_title">φούσκα</string>
+    <string name="settings_particle_size">μέγεθος</string>
+    <string name="settings_particle_speed">φούσκα ταχύτητα</string>
+    <string name="settings_particle_scroll">κλικ / ολίσθηση</string>
+    <string name="settings_scroll">ολίσθηση</string>
+    <string name="settings_playmode">παίξετε λειτουργία</string>
+    <string name="settings_select_myimage">επιλέξτε ταπετσαρία</string>
+
+
+    <string name="settings_daydream_title">screensaver</string>
+    <string name="settings_Interactive_title">αγγίζετε κλειστά</string>
+
+    <string name="settings_scroll_sum">ολίσθηση την οθόνη,κινείται το φόντο</string>
+    <string name="settings_scroll_speed">ολίσθηση ταχύτητα</string>
+
+    <string name="settings_particle_parallax">παράλλαξη</string>
+    <string name="settings_parallax_mode">παράλλαξη λειτουργία</string>
+
+
+    <string name="settings_rain_title">στάλα</string>
+    <string name="settings_magic">μαγεία</string>
+    <string name="settings_magic_sum">κούνημα της συσκευής σας?</string>
+    <string name="settings_remove_icon_title">αφαιρέσετε το εικονίδιο app</string>
+    <string name="settings_remove_icon_sum">αφαιρέσετε το εικονίδιο app，ίσως προκαλέσει επανεκκίνηση</string>
+    <string name="settings_autoPlay_title">autoplay</string>
+    <string name="settings_autoPlay_sum">ανοιχτή / κλειστά</string>
+    <string name="settings_star_title">αστέρων</string>
+    <string name="settings_bubble_title">φούσκα</string>
+    <string name="settings_particle_title">σωματιδίων</string>
+    <string name="main_game_label">ξεκινήσετε παιχνίδι</string>
+
+    <string name="settings_light_title">φως</string>
+    <string name="settings_effect_mode_title">φούσκα / φως</string>
+    <string name="settings_flower_title">λουλούδι</string>
+    <string name="settings_effect_flower_title">λουλούδι / φως</string>
+
+    <string name="settings_particle_touch_title">αγγίζετε αποτέλεσμα</string>
+    <string name="settings_particle_mode_title">οθόνη λειτουργία</string>
+    <string name="settings_particle_mode_always_title">πάντα ορατές</string>
+    <string name="settings_particle_mode_flash_title">μπορεί να δει μερικές φορές</string>
+
+    <!--ripple optional-->
+    <string name="settings_ripple_title">σταγόνα νερό</string>
+    <string name="settings_ripple_drag_title">σύροντας</string>
+    <string name="settings_ripple_sound_title">ήχο</string>
+    <!--end-->
+    <!-- array value-->
+    <string name="settings_less_title">Μείον</string>
+    <string name="settings_normal_title">Κανονικός</string>
+    <string name="settings_more_title">Μια παρτίδα</string>
+
+    <string name="settings_small_title">Μικρό</string>
+    <string name="settings_large_title">Μεγάλο</string>
+
+    <string name="settings_slow_title">Αργά</string>
+    <string name="settings_fast_title">Γρήγορα</string>
+    <string name="settings_path_top_title">μέχρι</string>
+    <string name="settings_path_bottom_title">κάτω</string>
+    <string name="settings_path_left_title">αριστερά</string>
+    <string name="settings_path_right_title">δεξιά</string>
+    <string name="settings_path_leftbottom_title">κατώτερο-αριστερά</string>
+    <string name="settings_path_rightbottom_title">κάτω δεξιά</string>
+    <string name="settings_path_lefttop_title">επάνω αριστερά</string>
+    <string name="settings_path_righttop_title">επάνω δεξιά</string>
+    <!-- end -->
+    <string name="settings_snow_title">χιόνι</string>
+    <string name="settings_brightness_title">λάμψη</string>
+
+    <string name="settings_particle_path_title">κατεύθυνση</string>
+    <string name="settings_autoColor_title">αλλαγή χρώματος αυτοκινήτων</string>
+</resources>

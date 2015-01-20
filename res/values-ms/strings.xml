@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Malay-->
+	<string name="more_devid_apps_label">lebih hidup Kertas dinding</string>
+	<string name="comment_this_app_label">komen</string>
+    <string name="sponsored_label">Ditaja</string>
+    <string name="recommended_title">Disyorkan</string>
+    <string name="more_free_apps_label">Lebih Apps PERCUMA</string>
+    <string name="main_setting_label">Pengaturan</string>
+    <string name="settings_bg_title">Latar</string>
+    <string name="settings_quantity_title">Kuantiti</string>
+    <string name="settings_size_title">Saiz</string>
+    <string name="settings_speed_title">Kelajuan</string>
+    <string name="settings_rotation_title">Putaran</string>
+    <string name="settings_scrolling_title">Menatal</string>
+    <string name="settings_touch_title">Menyentuh</string>
+    <string name="settings_localimage_title">Adat foto</string>
+    <string name="load_image_title">Memuatkan foto</string>
+    <string name="more_label">Lain</string>
+    <string name="share_this_app_label">Bagi app</string>
+    <string name="set_lwp_label">Mengatur kertas dinding</string>
+	<string name="main_removead_label">Buang Iklan</string>
+
+    <string name="settings_fps">penjimatan kuasa mod</string>
+    <string name="settings_3d">3D mod</string>
+    <string name="settings_fps_sum">terbuka / ditutup</string>
+    <string name="settings_particle_open">zarah</string>
+    <string name="settings_particle_quantity">gelembung jumlah</string>
+    <string name="settings_particle_key_title">gelembung</string>
+    <string name="settings_particle_size">saiz</string>
+    <string name="settings_particle_speed">gelembung kelajuan</string>
+    <string name="settings_particle_scroll">klik / slaid</string>
+    <string name="settings_scroll">slaid</string>
+    <string name="settings_playmode">bermain mod</string>
+    <string name="settings_select_myimage">memilih kertas dinding</string>
+
+    <string name="settings_daydream_title">screensaver</string>
+    <string name="settings_Interactive_title">Sentuh ditutup</string>
+    <string name="settings_scroll_sum">Slaid skrin untuk mengawal pergerakan latar belakang</string>
+    <string name="settings_scroll_speed">slaid kelajuan</string>
+
+    <string name="settings_particle_parallax">parallax</string>
+    <string name="settings_parallax_mode">parallax mod</string>
+
+    <string name="settings_rain_title">rintik hujan</string>
+    <string name="settings_magic">sihir</string>
+    <string name="settings_magic_sum">goncang telefon bimbit anda?</string>
+    <string name="settings_remove_icon_title">keluarkan icon app</string>
+    <string name="settings_remove_icon_sum">keluarkan icon app，perlu restart</string>
+    <string name="settings_autoPlay_title">autoplay</string>
+    <string name="settings_autoPlay_sum">terbuka / ditutup</string>
+    <string name="settings_star_title">bintang</string>
+    <string name="settings_bubble_title">gelembung</string>
+    <string name="settings_particle_title">zarah</string>
+    <string name="main_game_label">bermain</string>
+
+    <string name="settings_light_title">cahaya</string>
+    <string name="settings_effect_mode_title">gelembung / cahaya</string>
+    <string name="settings_flower_title">bunga</string>
+    <string name="settings_effect_flower_title">bunga / cahaya</string>
+
+    <string name="settings_particle_touch_title">Sentuh kesan</string>
+    <string name="settings_particle_mode_title">Mod paparan</string>
+    <string name="settings_particle_mode_always_title">sentiasa kelihatan</string>
+    <string name="settings_particle_mode_flash_title">menjulang</string>
+
+    <!--ripple optional-->
+    <string name="settings_ripple_title">Drops</string>
+    <string name="settings_ripple_drag_title">menyeret</string>
+    <string name="settings_ripple_sound_title">bunyi</string>
+    <!--end-->
+    <!-- array value-->
+    <string name="settings_less_title">Kurang</string>
+    <string name="settings_normal_title">Normal</string>
+    <string name="settings_more_title">Banyak</string>
+
+    <string name="settings_small_title">Kecil</string>
+    <string name="settings_large_title">Besar</string>
+
+    <string name="settings_slow_title">Lambat</string>
+    <string name="settings_fast_title">Cepat</string>
+
+    <string name="settings_path_top_title">sehingga</string>
+    <string name="settings_path_bottom_title">turun</string>
+    <string name="settings_path_left_title">meninggalkan</string>
+    <string name="settings_path_right_title">betul</string>
+    <string name="settings_path_leftbottom_title">kiri sebelah</string>
+    <string name="settings_path_rightbottom_title">kanan bawah</string>
+    <string name="settings_path_lefttop_title">atas kiri</string>
+    <string name="settings_path_righttop_title">atas kanan</string>
+    <!-- end -->
+    <string name="settings_snow_title">salji</string>
+    <string name="settings_brightness_title">kecerahan</string>
+
+    <string name="settings_particle_path_title">arah</string>
+    <string name="settings_autoColor_title">perubahan auto warna</string>
+</resources>

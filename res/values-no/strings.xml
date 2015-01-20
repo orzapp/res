@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="more_devid_apps_label">mer levende bakgrunnsbilde</string>
+	<string name="comment_this_app_label">kommentar</string>
+    <string name="sponsored_label">Sponset</string>
+    <string name="recommended_title">Anbefalt</string>
+    <string name="more_free_apps_label">Andre GRATIS Apps</string>
+    <string name="main_setting_label">Innstillinger</string>
+    <string name="settings_bg_title">Bakgrunn</string>
+    <string name="settings_quantity_title">Antall</string>
+    <string name="settings_size_title">Størrelse</string>
+    <string name="settings_speed_title">Fart</string>
+    <string name="settings_rotation_title">Rotasjon</string>
+    <string name="settings_scrolling_title">Rulling</string>
+    <string name="settings_touch_title">Berør</string>
+    <string name="settings_localimage_title">Egendefinert bilde</string>
+    <string name="load_image_title">Legg i fotopapir</string>
+    <string name="more_label">Mer</string>
+    <string name="share_this_app_label">Del denne app</string>
+    <string name="set_lwp_label">Sett Bakgrunn</string>
+	<string name="main_removead_label">Fjern annonser</string>
+
+    <string name="settings_fps">spare strøm</string>
+    <string name="settings_3d">3D modus</string>
+    <string name="settings_fps_sum">åpen / stengt</string>
+    <string name="settings_particle_open">partikkel</string>
+    <string name="settings_particle_quantity">boble beløp</string>
+    <string name="settings_particle_key_title">boble</string>
+    <string name="settings_particle_size">størrelse</string>
+    <string name="settings_particle_speed">boble hastighet</string>
+    <string name="settings_particle_scroll">klikk / lysbilde</string>
+    <string name="settings_scroll">lysbilde</string>
+    <string name="settings_playmode">spille modus</string>
+    <string name="settings_select_myimage">velge tapet</string>
+
+
+    <string name="settings_daydream_title">skjermsparer</string>
+    <string name="settings_Interactive_title">lysbilde stengt</string>
+
+    <string name="settings_scroll_sum">lysbilde å flytte bakgrunnen</string>
+    <string name="settings_scroll_speed">lysbilde hastighet</string>
+
+    <string name="settings_particle_parallax">parallax</string>
+    <string name="settings_parallax_mode">parallax modus</string>
+
+
+    <string name="settings_rain_title">regndråpe</string>
+    <string name="settings_magic">magi</string>
+    <string name="settings_magic_sum">riste telefonen din?</string>
+    <string name="settings_remove_icon_title">fjerne app ikonet</string>
+    <string name="settings_remove_icon_sum">fjerne app ikonet，kanskje føre til omstart</string>
+    <string name="settings_autoPlay_title">obduksjonene</string>
+    <string name="settings_autoPlay_sum">åpen / stengt</string>
+    <string name="settings_star_title">stjerner</string>
+    <string name="settings_bubble_title">boble</string>
+    <string name="settings_particle_title">partikkel</string>
+    <string name="main_game_label">starte spillet</string>
+
+    <string name="settings_light_title">lys</string>
+    <string name="settings_effect_mode_title">boble / lys</string>
+    <string name="settings_flower_title">blomst</string>
+    <string name="settings_effect_flower_title">blomst / lys</string>
+
+    <string name="settings_particle_touch_title">røre effekt</string>
+    <string name="settings_particle_mode_title">skjerm modus</string>
+    <string name="settings_particle_mode_always_title">alltid synlig</string>
+    <string name="settings_particle_mode_flash_title">ser noen ganger</string>
+
+    <!--ripple optional-->
+    <string name="settings_ripple_title">vann dråpe</string>
+    <string name="settings_ripple_drag_title">drag</string>
+    <string name="settings_ripple_sound_title">høres</string>
+    <!--end-->
+    <!-- array value-->
+    <string name="settings_less_title">Mindre</string>
+    <string name="settings_normal_title">Normale</string>
+    <string name="settings_more_title">Mer</string>
+
+    <string name="settings_small_title">Liten</string>
+    <string name="settings_large_title">Stor</string>
+
+    <string name="settings_slow_title">Sakte</string>
+    <string name="settings_fast_title">Rask</string>
+
+    <string name="settings_path_top_title">up</string>
+    <string name="settings_path_bottom_title">naar beneden</string>
+    <string name="settings_path_left_title">links</string>
+    <string name="settings_path_right_title">rechts</string>
+    <string name="settings_path_leftbottom_title">linkerbenedenhoek</string>
+    <string name="settings_path_rightbottom_title">rechterbenedenhoek</string>
+    <string name="settings_path_lefttop_title">linksboven</string>
+    <string name="settings_path_righttop_title">rechterbovenhoek</string>
+    <!-- end -->
+    <string name="settings_snow_title">snø</string>
+    <string name="settings_brightness_title">lysstyrke</string>
+
+    <string name="settings_particle_path_title">richting</string>
+    <string name="settings_autoColor_title">automatisch van kleur veranderen</string>
+</resources>

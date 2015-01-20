@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Danish-->
+	<string name="more_devid_apps_label">Mere Levende tapet</string>
+	<string name="comment_this_app_label">Kommentar</string>
+    <string name="sponsored_label">Sponsoreret</string>
+    <string name="recommended_title">Anbefalet</string>
+    <string name="more_free_apps_label">Andre GRATIS apps</string>
+    <string name="main_setting_label">Indstillinger</string>
+    <string name="settings_bg_title">Baggrund</string>
+    <string name="settings_quantity_title">Mængde</string>
+    <string name="settings_size_title">Størrelse</string>
+    <string name="settings_speed_title">Hastighed</string>
+    <string name="settings_rotation_title">Rotationen</string>
+    <string name="settings_scrolling_title">Rulning</string>
+    <string name="settings_touch_title">Tryk</string>
+    <string name="settings_localimage_title">Brugerdefineret foto</string>
+    <string name="load_image_title">Ilæg fotopapir</string>
+    <string name="more_label">Mere</string>
+    <string name="share_this_app_label">Del denne app</string>
+    <string name="set_lwp_label">Sæt tapet</string>
+	<string name="main_removead_label">Fjern annoncer</string>
+
+
+
+    <string name="settings_fps">spare strøm</string>
+    <string name="settings_3d">3D tilstand</string>
+    <string name="settings_fps_sum">åbent/lukket</string>
+    <string name="settings_particle_open">partikel</string>
+    <string name="settings_particle_quantity">boble beløb</string>
+    <string name="settings_particle_key_title">boble</string>
+    <string name="settings_particle_size">størrelse</string>
+    <string name="settings_particle_speed">boble hastighed</string>
+    <string name="settings_particle_scroll">røre / dias</string>
+    <string name="settings_scroll">dias</string>
+    <string name="settings_playmode">afspilningstilstand</string>
+    <string name="settings_select_myimage">vælge tapet</string>
+
+
+    <string name="settings_daydream_title">screensaver</string>
+    <string name="settings_Interactive_title">deaktivere touch effekt</string>
+
+    <string name="settings_scroll_sum">dias skærmen til at styre baggrunden</string>
+    <string name="settings_scroll_speed">dias hastighed</string>
+
+    <string name="settings_particle_parallax">parallakse</string>
+    <string name="settings_parallax_mode">parallakse tilstand</string>
+
+
+    <string name="settings_rain_title">regndråbe</string>
+    <string name="settings_magic">magi</string>
+    <string name="settings_magic_sum">ryste din telefon?</string>
+    <string name="settings_remove_icon_title">fjerne programikon</string>
+    <string name="settings_remove_icon_sum">fjerne programikon，måske medføre genstart</string>
+    <string name="settings_autoPlay_title">Autoplay</string>
+    <string name="settings_autoPlay_sum">åbent / lukket</string>
+    <string name="settings_star_title">stjerne</string>
+    <string name="settings_bubble_title">boble</string>
+    <string name="settings_particle_title">partikel</string>
+    <string name="main_game_label">starte spillet</string>
+
+    <string name="settings_light_title">lys</string>
+    <string name="settings_effect_mode_title">boble / lys</string>
+    <string name="settings_flower_title">blomst</string>
+    <string name="settings_effect_flower_title">blomst / lys</string>
+
+    <string name="settings_particle_touch_title">touch effekt</string>
+    <string name="settings_particle_mode_title">visningstilstand</string>
+    <string name="settings_particle_mode_always_title">altid kan se</string>
+    <string name="settings_particle_mode_flash_title">se undertiden</string>
+
+
+    <!--ripple optional-->
+    <string name="settings_ripple_title">vanddråbe</string>
+    <string name="settings_ripple_drag_title">trække</string>
+    <string name="settings_ripple_sound_title">lyd</string>
+    <!--end-->
+
+    <!-- array value-->
+    <string name="settings_less_title">Mindre</string>
+    <string name="settings_normal_title">Normale</string>
+    <string name="settings_more_title">Mere</string>
+
+    <string name="settings_small_title">Lille</string>
+    <string name="settings_large_title">Stor</string>
+
+    <string name="settings_slow_title">Langsom</string>
+    <string name="settings_fast_title">Hurtig</string>
+
+    <string name="settings_path_top_title">op</string>
+    <string name="settings_path_bottom_title">ned</string>
+    <string name="settings_path_left_title">venstre</string>
+    <string name="settings_path_right_title">højre</string>
+    <string name="settings_path_leftbottom_title">nederste venstre</string>
+    <string name="settings_path_rightbottom_title">nederste højre</string>
+    <string name="settings_path_lefttop_title">øverste venstre</string>
+    <string name="settings_path_righttop_title">øverst til højre</string>
+    <!-- end -->
+    <string name="settings_snow_title">sne</string>
+    <string name="settings_brightness_title">Lysstyrke</string>
+
+    <string name="settings_particle_path_title">retning</string>
+    <string name="settings_autoColor_title">auto skifter farve</string>
+
+</resources>

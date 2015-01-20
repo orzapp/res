@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+	<string name="settings_fps">Power Saving Mode</string>
+	<string name="settings_3d">3D Mode</string>
+	<string name="settings_fps_sum">Enable/Disable</string>
+	<string name="settings_particle_open">Particle</string>
+	<string name="settings_particle_quantity">Bubble Quantity</string>
+	<string name="settings_particle_key_title">Bubble</string>
+	<string name="settings_particle_size">Size</string>
+	<string name="settings_particle_speed">Bubble Speed</string>
+	<string name="settings_particle_scroll">Tap / Slide</string>
+	<string name="settings_scroll">Scroll</string>
+	<string name="settings_playmode">Play Mode</string>
+	<string name="settings_select_myimage">Set Image</string>
+
+	<string name="more_devid_apps_label">More Live Wallpaper</string>
+	<string name="comment_this_app_label">Review</string>
+    <string name="sponsored_label">Sponsored</string>
+    <string name="recommended_title">Recommended</string>
+    <string name="more_free_apps_label">More FREE Apps</string>
+    <string name="main_setting_label">Settings</string>
+    <string name="more_label">More</string>
+    <string name="share_this_app_label">Share This App</string>
+    <string name="set_lwp_label">Set Wallpaper</string>
+	<string name="main_removead_label">Remove Ads</string>
+	<string name="settings_daydream_title">Daydream</string>
+	<string name="settings_Interactive_title">Touch Close</string>
+	<string name="settings_bg_title">Background</string>
+	<string name="settings_scrolling_title">Scrolling</string>
+	<string name="settings_scroll_sum">Scroll screen to control background moving</string>
+	<string name="settings_scroll_speed">Scroll Speed</string>
+
+	<string name="settings_particle_parallax">Parallax Effect</string>
+	<string name="settings_parallax_mode">Parallax Mode</string>
+
+	<string name="settings_localimage_title">Custom Photo</string>
+	<string name="load_image_title">Load Photo</string>
+
+	<string name="settings_touch_title">Touch</string>
+
+	<string name="settings_quantity_title">Quantity</string>
+	<string name="settings_size_title">Size</string>
+	<string name="settings_speed_title">Speed</string>
+	<string name="settings_rotation_title">Rotation</string>
+
+	<string name="settings_rain_title">Rain</string>
+	<string name="settings_magic">Magic</string>
+	<string name="settings_magic_sum">Just shake your phone</string>
+	<string name="settings_remove_icon_title">Remove App Icon</string>
+	<string name="settings_remove_icon_sum">Remove app icon from app drawer, may need to restart the launcher</string>
+
+	<string name="settings_star_title">Star</string>
+	<string name="settings_bubble_title">Bubble</string>
+	<string name="settings_autoPlay_title">Auto Play</string>
+	<string name="settings_autoPlay_sum">ON / OFF</string>
+	<string name="settings_particle_title">Particle</string>
+	<string name="main_game_label">Game</string>
+
+	<string name="settings_light_title">Light</string>
+	<string name="settings_effect_mode_title">Bubble / Light</string>
+	<string name="settings_flower_title">Flower</string>
+	<string name="settings_effect_flower_title">Flower / Light</string>
+
+	<string name="settings_particle_touch_title">Touch effect</string>
+	<string name="settings_particle_mode_title">Display mode</string>
+	<string name="settings_particle_mode_always_title">Always visible</string>
+	<string name="settings_particle_mode_flash_title">Faintly visible</string>
+	<string name="settings_invert_colors_title">Invert Colors</string>
+	<string name="settings_select_colors_title">Colors</string>
+	<string name="settings_smooth_title">Smooth</string>
+
+	<string name="settings_particle_path_title">Direction</string>
+	<string name="settings_autoColor_title">Auto Color</string>
+
+    <!--ripple optional-->
+    <string name="settings_ripple_title">Water Drop</string>
+    <string name="settings_ripple_drag_title">Dragging</string>
+    <string name="settings_ripple_sound_title">Sound</string>
+    <!--end-->
+
+    <!-- array value-->
+    <string name="settings_less_title">Less</string>
+    <string name="settings_normal_title">Normal</string>
+    <string name="settings_more_title">More</string>
+
+    <string name="settings_small_title">Small</string>
+    <string name="settings_large_title">Large</string>
+
+    <string name="settings_slow_title">Slow</string>
+    <string name="settings_fast_title">Fast</string>
+
+    <string name="settings_reverse_title">Reverse</string>
+
+	<string name="settings_path_top_title">Up</string>
+	<string name="settings_path_bottom_title">Down</string>
+	<string name="settings_path_left_title">Left</string>
+	<string name="settings_path_right_title">Right</string>
+	<string name="settings_path_leftbottom_title">Lower-left</string>
+	<string name="settings_path_rightbottom_title">Lower-right</string>
+	<string name="settings_path_lefttop_title">Upper-left</string>
+	<string name="settings_path_righttop_title">Upper-right</string>
+    <!-- end -->
+
+	<string name="settings_snow_title">Snow</string>
+	<string name="settings_brightness_title">Brightness</string>
+
+
+	<string name="app_name">Galaxy Flowers</string>
+	<string name="settings_activity">com.landscapelwp.flower.ActivityS</string>
+</resources>

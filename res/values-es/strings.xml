@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Spanish-->
+	<string name="more_devid_apps_label">Más Fondos animados</string>
+	<string name="comment_this_app_label">Comentario</string>
+    <string name="sponsored_label">Patrocinado</string>
+    <string name="recommended_title">Recomendado</string>
+    <string name="more_free_apps_label">Más Apps GRATIS</string>
+    <string name="main_setting_label">Ajuste</string>
+    <string name="settings_bg_title">Fondo</string>
+    <string name="settings_quantity_title">Cantidad</string>
+    <string name="settings_size_title">Tamaño</string>
+    <string name="settings_speed_title">Velocidad</string>
+    <string name="settings_rotation_title">Rotación</string>
+    <string name="settings_scrolling_title">Desplazamiento</string>
+    <string name="settings_touch_title">Toque</string>
+    <string name="settings_localimage_title">Fotos personalizada</string>
+    <string name="load_image_title">Cargar fotos</string>
+    <string name="more_label">Más</string>
+    <string name="share_this_app_label">Acciones de la aplicación</string>
+    <string name="set_lwp_label">Establecer fondo</string>
+	<string name="main_removead_label">Eliminar anuncios</string>
+
+    <string name="settings_fps">modo de ahorro de energía</string>
+    <string name="settings_3d">3D modo</string>
+    <string name="settings_fps_sum">abierta / cerrado</string>
+    <string name="settings_particle_open">partículas</string>
+    <string name="settings_particle_quantity">burbuja cantidad</string>
+    <string name="settings_particle_key_title">burbuja</string>
+    <string name="settings_particle_size">tamaño</string>
+    <string name="settings_particle_speed">burbuja velocidad</string>
+    <string name="settings_particle_scroll">clic / diapositiva</string>
+    <string name="settings_scroll">diapositiva</string>
+    <string name="settings_playmode">jugar modo</string>
+    <string name="settings_select_myimage">elegir fondo de pantalla</string>
+
+    <string name="settings_daydream_title">salvapantallas</string>
+    <string name="settings_Interactive_title">toque cerrado</string>
+
+    <string name="settings_scroll_sum">deslice la pantalla para controlar el fondo</string>
+    <string name="settings_scroll_speed">diapositiva velocidad</string>
+
+    <string name="settings_particle_parallax">paralaje</string>
+    <string name="settings_parallax_mode">paralaje modo</string>
+
+
+    <string name="settings_rain_title">las gotas de lluvia</string>
+    <string name="settings_magic">magia</string>
+    <string name="settings_magic_sum">agitar el teléfono?</string>
+    <string name="settings_remove_icon_title">quitar icono de la aplicación</string>
+    <string name="settings_remove_icon_sum">quitar icono de la aplicación，tal vez causar el reinicio</string>
+    <string name="settings_autoPlay_title">autoplay</string>
+    <string name="settings_autoPlay_sum">abierta / cerrado</string>
+    <string name="settings_star_title">estrellas</string>
+    <string name="settings_bubble_title">burbuja</string>
+    <string name="settings_particle_title">partículas</string>
+    <string name="main_game_label">abrir el partido</string>
+
+    <string name="settings_light_title">luz</string>
+    <string name="settings_effect_mode_title">burbuja / luz</string>
+    <string name="settings_flower_title">flor</string>
+    <string name="settings_effect_flower_title">flor / luz</string>
+
+    <string name="settings_particle_touch_title">toque efecto</string>
+    <string name="settings_particle_mode_title">pantalla modo</string>
+    <string name="settings_particle_mode_always_title">siempre visible</string>
+    <string name="settings_particle_mode_flash_title">Looming</string>
+
+
+    <!--ripple optional-->
+    <string name="settings_ripple_title">gota de agua</string>
+    <string name="settings_ripple_drag_title">arrastrando</string>
+    <string name="settings_ripple_sound_title">sonar</string>
+    <!--end-->
+    <!-- array value-->
+    <string name="settings_less_title">Menos</string>
+    <string name="settings_normal_title">Normal</string>
+    <string name="settings_more_title">Más</string>
+
+    <string name="settings_small_title">Pequeño</string>
+    <string name="settings_large_title">Grande</string>
+
+    <string name="settings_slow_title">Despacio</string>
+    <string name="settings_fast_title">Rápido</string>
+
+    <string name="settings_path_top_title">hasta</string>
+    <string name="settings_path_bottom_title">abajo</string>
+    <string name="settings_path_left_title">izquierda</string>
+    <string name="settings_path_right_title">derecho</string>
+    <string name="settings_path_leftbottom_title">inferior izquierda</string>
+    <string name="settings_path_rightbottom_title">inferior derecha</string>
+    <string name="settings_path_lefttop_title">izquierda superior</string>
+    <string name="settings_path_righttop_title">superior derecha</string>
+    <!-- end -->
+
+    <string name="settings_snow_title">nieve</string>
+    <string name="settings_brightness_title">brillo</string>
+
+    <string name="settings_particle_path_title">dirección</string>
+    <string name="settings_autoColor_title">cambio automático del color</string>
+
+</resources>

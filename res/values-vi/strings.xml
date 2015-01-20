@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Vietnamese-->
+	<string name="more_devid_apps_label">Nhiều nền</string>
+	<string name="comment_this_app_label">Bình luận</string>
+    <string name="sponsored_label">Được tài trợ</string>
+    <string name="recommended_title">Đê</string>
+    <string name="more_free_apps_label">Ứng dụng miễn phí</string>
+    <string name="main_setting_label">Cài đặt</string>
+    <string name="settings_bg_title">Bối cảnh</string>
+    <string name="settings_quantity_title">Số lượng</string>
+    <string name="settings_size_title">Kích</string>
+    <string name="settings_speed_title">Tốc độ</string>
+    <string name="settings_rotation_title">Luân chuyển</string>
+    <string name="settings_scrolling_title">Di chuyển</string>
+    <string name="settings_touch_title">Chạm</string>
+    <string name="settings_localimage_title">Tuỳ chỉnh Hình ảnh</string>
+    <string name="load_image_title">Tải hình ảnh</string>
+    <string name="more_label">Khác</string>
+    <string name="share_this_app_label">Chia sẻ Trang này App</string>
+    <string name="set_lwp_label">Đặt hình nền</string>
+	<string name="main_removead_label">Hủy bỏ Quảng cáo</string>
+
+    <string name="settings_fps">tiết kiệm năng lượng chế độ</string>
+    <string name="settings_3d">3D chế độ</string>
+    <string name="settings_fps_sum">mở / đóng</string>
+    <string name="settings_particle_open">hạt</string>
+    <string name="settings_particle_quantity">số lượng bong bóng</string>
+    <string name="settings_particle_key_title">bong bóng</string>
+    <string name="settings_particle_size">kích thước</string>
+    <string name="settings_particle_speed">tốc độ bong bóng</string>
+    <string name="settings_particle_scroll">nhấp chuột / trượt</string>
+    <string name="settings_scroll">trượt</string>
+    <string name="settings_playmode">chế độ chơi</string>
+    <string name="settings_select_myimage">chọn hình nền</string>
+
+    <string name="settings_daydream_title">bảo vệ màn hình</string>
+    <string name="settings_Interactive_title">chạm Đóng</string>
+
+    <string name="settings_scroll_sum">Trượt màn hình để điều khiển sự chuyển động nền</string>
+    <string name="settings_scroll_speed">trượt tốc độ</string>
+
+    <string name="settings_particle_parallax">Parallax</string>
+    <string name="settings_parallax_mode">Parallax chế độ</string>
+
+    <string name="settings_rain_title">giọt mưa</string>
+    <string name="settings_magic">ma thuật</string>
+    <string name="settings_magic_sum">Lắc điện thoại của bạn để thử?</string>
+    <string name="settings_remove_icon_title">Hủy bỏ các biểu tượng ứng dụng</string>
+    <string name="settings_remove_icon_sum">Hủy bỏ các biểu tượng ứng dụng，Có thể cần phải khởi động lại</string>
+    <string name="settings_autoPlay_title">Autoplay</string>
+    <string name="settings_autoPlay_sum">mở / đóng</string>
+    <string name="settings_star_title">sao</string>
+    <string name="settings_bubble_title">bong bóng</string>
+    <string name="settings_particle_title">hạt</string>
+    <string name="main_game_label">chơi</string>
+
+    <string name="settings_light_title">ánh sáng</string>
+    <string name="settings_effect_mode_title">bong bóng / ánh sáng</string>
+    <string name="settings_flower_title">hoa</string>
+    <string name="settings_effect_flower_title">hoa / ánh sáng</string>
+
+    <string name="settings_particle_touch_title">chạm vào hiệu lực</string>
+    <string name="settings_particle_mode_title">Chế độ hiển thị</string>
+    <string name="settings_particle_mode_always_title">luôn luôn có thể nhìn thấy</string>
+    <string name="settings_particle_mode_flash_title">Lờ mờ</string>
+
+    <!--ripple optional-->
+    <string name="settings_ripple_title">Water Drop</string>
+    <string name="settings_ripple_drag_title">Dragging</string>
+    <string name="settings_ripple_sound_title">Sound</string>
+    <!--end-->
+    <!-- array value-->
+    <string name="settings_less_title">Ít</string>
+    <string name="settings_normal_title">Bình thường</string>
+    <string name="settings_more_title">Hơn</string>
+
+    <string name="settings_small_title">Nho</string>
+    <string name="settings_large_title">To</string>
+
+    <string name="settings_slow_title">Châ</string>
+    <string name="settings_fast_title">Nhanh</string>
+
+    <string name="settings_path_top_title">lên</string>
+    <string name="settings_path_bottom_title">xuống</string>
+    <string name="settings_path_left_title">còn lại</string>
+    <string name="settings_path_right_title">đúng</string>
+    <string name="settings_path_leftbottom_title">phía dưới bên trái</string>
+    <string name="settings_path_rightbottom_title">dưới bên phải</string>
+    <string name="settings_path_lefttop_title">trên bên trái</string>
+    <string name="settings_path_righttop_title">trên bên phải</string>
+    <!-- end -->
+    <string name="settings_snow_title">tuyết</string>
+    <string name="settings_brightness_title">độ sáng</string>
+
+    <string name="settings_particle_path_title">hướng</string>
+    <string name="settings_autoColor_title">tự động thay đổi màu sắc</string>
+</resources>

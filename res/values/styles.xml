@@ -1,0 +1,26 @@
+<resources>
+
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+    </style>
+
+	<style name="AppThemeDialog" parent="AppDialog">
+	</style>
+
+	<style name="AppDialog" parent="AppBaseTheme">
+	</style>
+
+	<style name="AppDialogWhite" parent="AppBaseTheme">
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:background">#ffeaeaea</item>
+		<item name="android:textColor">#ff000000</item>
+
+	</style>
+
+
+</resources>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+	<string name="settings_fps">省电模式</string>
+	<string name="settings_3d">3D 模式</string>
+	<string name="settings_fps_sum">开启/关闭</string>
+	<string name="settings_particle_open">粒子</string>
+	<string name="settings_particle_quantity">气泡数量</string>
+	<string name="settings_particle_key_title">气泡</string>
+	<string name="settings_particle_size">大小</string>
+	<string name="settings_particle_speed">气泡速度</string>
+	<string name="settings_particle_scroll">点击 / 滑动</string>
+	<string name="settings_scroll">滑动</string>
+	<string name="settings_playmode">播放模式</string>
+	<string name="settings_select_myimage">选择壁纸</string>
+
+	<string name="more_devid_apps_label">更多动态壁纸</string>
+	<string name="comment_this_app_label">评论</string>
+	<string name="more_free_apps_label">更多免费APP</string>
+	<string name="share_this_app_label">分享这个程序</string>
+	<string name="main_setting_label">设置</string>
+	<string name="set_lwp_label">设置壁纸</string>
+	<string name="recommended_title">推荐</string>
+	<string name="sponsored_label">赞助</string>
+	<string name="more_label">更多</string>
+	<string name="main_removead_label">移除广告</string>
+	<string name="settings_daydream_title">互动屏保</string>
+	<string name="settings_Interactive_title">触摸关闭</string>
+	<string name="settings_bg_title">背景</string>
+	<string name="settings_scrolling_title">滑动</string>
+	<string name="settings_scroll_sum">滑动屏幕控制背景移动</string>
+	<string name="settings_scroll_speed">滑动速度</string>
+
+	<string name="settings_particle_parallax">视差</string>
+	<string name="settings_parallax_mode">视差模式</string>
+
+	<string name="settings_localimage_title">自定义照片</string>
+	<string name="load_image_title">载入照片</string>
+
+	<string name="settings_touch_title">触摸</string>
+
+	<string name="settings_quantity_title">数量</string>
+	<string name="settings_size_title">大小</string>
+	<string name="settings_speed_title">速度</string>
+	<string name="settings_rotation_title">自转</string>
+
+	<string name="settings_rain_title">雨点</string>
+	<string name="settings_magic">魔法</string>
+	<string name="settings_magic_sum">摇晃你的手机试试?</string>
+	<string name="settings_remove_icon_title">移除应用程式图标</string>
+	<string name="settings_remove_icon_sum">移除应用程式图标，可能需要重新启动</string>
+	<string name="settings_autoPlay_title">自动播放</string>
+	<string name="settings_autoPlay_sum">打开 / 关闭</string>
+	<string name="settings_star_title">星星</string>
+	<string name="settings_bubble_title">泡泡</string>
+	<string name="settings_particle_title">粒子</string>
+	<string name="main_game_label">开始游戏</string>
+
+	<string name="settings_light_title">光子</string>
+	<string name="settings_effect_mode_title">泡泡 / 光子</string>
+	<string name="settings_flower_title">花</string>
+	<string name="settings_effect_flower_title">花 / 光子</string>
+
+	<string name="settings_particle_touch_title">触摸效果</string>
+	<string name="settings_particle_mode_title">显示模式</string>
+	<string name="settings_particle_mode_always_title">始终可见</string>
+	<string name="settings_particle_mode_flash_title">隐约可见</string>
+	<string name="settings_invert_colors_title">反转颜色</string>
+	<string name="settings_select_colors_title">颜色</string>
+	<string name="settings_smooth_title">平滑</string>
+	<string name="settings_particle_path_title">方向</string>
+	<string name="settings_autoColor_title">自动换颜色</string>
+    <!--ripple optional-->
+    <string name="settings_ripple_title">水滴</string>
+    <string name="settings_ripple_drag_title">拖动</string>
+    <string name="settings_ripple_sound_title">声音</string>
+    <!--end-->
+    <!-- array value-->
+    <string name="settings_less_title">少</string>
+    <string name="settings_normal_title">正常</string>
+    <string name="settings_more_title">多</string>
+
+    <string name="settings_small_title">小</string>
+    <string name="settings_large_title">大</string>
+
+    <string name="settings_slow_title">慢</string>
+    <string name="settings_fast_title">快</string>
+
+
+    <string name="settings_reverse_title">反向</string>
+
+	<string name="settings_path_top_title">上</string>
+	<string name="settings_path_bottom_title">下</string>
+	<string name="settings_path_left_title">左</string>
+	<string name="settings_path_right_title">右</string>
+	<string name="settings_path_leftbottom_title">左下</string>
+	<string name="settings_path_rightbottom_title">右下</string>
+	<string name="settings_path_lefttop_title">左上</string>
+	<string name="settings_path_righttop_title">右上</string>
+    <!-- end -->
+	<string name="settings_snow_title">雪</string>
+	<string name="settings_brightness_title">亮度</string>
+
+	<string name="app_name">Galaxy 花</string>
+
+</resources>

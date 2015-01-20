@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Ukrainian-->
+	<string name="more_devid_apps_label">Інший Динамічні шпалери</string>
+	<string name="comment_this_app_label">коментувати</string>
+    <string name="sponsored_label">Спонсорів</string>
+    <string name="recommended_title">Рекомендований</string>
+    <string name="more_free_apps_label">Безкоштовні програми</string>
+    <string name="main_setting_label">Налаштування</string>
+    <string name="settings_bg_title">Фон</string>
+    <string name="settings_quantity_title">Кількість</string>
+    <string name="settings_size_title">Розмір</string>
+    <string name="settings_speed_title">Швидкість</string>
+    <string name="settings_rotation_title">Обертання</string>
+    <string name="settings_scrolling_title">Прокрутка</string>
+    <string name="settings_touch_title">Натисніть</string>
+    <string name="settings_localimage_title">Користувальницькі фото</string>
+    <string name="load_image_title">Завантажте фото</string>
+    <string name="more_label">Інший</string>
+    <string name="share_this_app_label">Поділіться цим додатком</string>
+    <string name="set_lwp_label">Встановити шпалери</string>
+	<string name="settings_daydream_title">Заставка</string>
+	<string name="settings_Interactive_title">торкнутися близьке</string>
+	<string name="settings_star_title">звезда</string>
+	<string name="settings_bubble_title">Пузир</string>
+	<string name="main_removead_label">Видалити оголошення</string>
+
+	<string name="settings_particle_touch_title">торкнутися ефект</string>
+	<string name="settings_particle_mode_title">режим відображення</string>
+	<string name="settings_particle_mode_always_title">Завжди видно</string>
+	<string name="settings_particle_mode_flash_title">ледь видна</string>
+
+
+
+
+    <string name="settings_fps">економії енергії</string>
+    <string name="settings_3d">3D режим</string>
+    <string name="settings_fps_sum">відкритий / закрито</string>
+    <string name="settings_particle_open">частинок</string>
+    <string name="settings_particle_quantity">міхур кількість</string>
+    <string name="settings_particle_key_title">міхур</string>
+    <string name="settings_particle_size">розмір</string>
+    <string name="settings_particle_speed">міхур швидкість</string>
+    <string name="settings_particle_scroll">торкайтеся / слайд</string>
+    <string name="settings_scroll">слайд</string>
+    <string name="settings_playmode">грати режим</string>
+    <string name="settings_select_myimage">виберіть шпалери</string>
+
+
+    <string name="settings_scroll_sum">ковзати рухатися фон</string>
+    <string name="settings_scroll_speed">слайд швидкість</string>
+
+    <string name="settings_particle_parallax">параллакса</string>
+    <string name="settings_parallax_mode">параллакса режим</string>
+
+
+
+    <string name="settings_rain_title">крапля</string>
+    <string name="settings_magic">магія</string>
+    <string name="settings_magic_sum">потрясти телефон?</string>
+    <string name="settings_remove_icon_title">видалити додаток значок</string>
+    <string name="settings_remove_icon_sum">видалити додаток значок, Іноді зустріч перезавантаження</string>
+    <string name="settings_autoPlay_title">автозапуску</string>
+    <string name="settings_autoPlay_sum">відкритий / закрито</string>
+
+    <string name="settings_particle_title">літаючі частинки</string>
+    <string name="main_game_label">почати гру</string>
+
+    <string name="settings_light_title">блискучі частинки</string>
+    <string name="settings_effect_mode_title">міхур / Блискучі частинки</string>
+    <string name="settings_flower_title">квітка</string>
+    <string name="settings_effect_flower_title">квітка / Блискучі частинки</string>
+
+    <!--ripple optional-->
+    <string name="settings_ripple_title">краплі води</string>
+    <string name="settings_ripple_drag_title">перетягування</string>
+    <string name="settings_ripple_sound_title">звук</string>
+    <!--end-->
+    <!-- array value-->
+    <string name="settings_less_title">Менше</string>
+    <string name="settings_normal_title">Нормальний</string>
+    <string name="settings_more_title">Багато</string>
+
+    <string name="settings_small_title">Малий</string>
+    <string name="settings_large_title">Великий</string>
+
+    <string name="settings_slow_title">Сповільнювати</string>
+    <string name="settings_fast_title">Швидко</string>
+
+    <string name="settings_path_top_title">до</string>
+    <string name="settings_path_bottom_title">вниз</string>
+    <string name="settings_path_left_title">залишилося</string>
+    <string name="settings_path_right_title">право</string>
+    <string name="settings_path_leftbottom_title">нижній лівий</string>
+    <string name="settings_path_rightbottom_title">нижній правий</string>
+    <string name="settings_path_lefttop_title">верхній лівий</string>
+    <string name="settings_path_righttop_title">верхній правий</string>
+    <!-- end -->
+    <string name="settings_snow_title">сніг</string>
+    <string name="settings_brightness_title">яскравість</string>
+
+    <string name="settings_particle_path_title">напрямок</string>
+    <string name="settings_autoColor_title">Колір автоматичне зміна</string>
+
+
+</resources>

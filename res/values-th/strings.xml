@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Thai-->
+	<string name="more_devid_apps_label">อื่น ๆ สดวอลล์เปเปอร์</string>
+	<string name="comment_this_app_label">ความคิดเห็น</string>
+    <string name="sponsored_label">ผู้ให้การสนับสนุน</string>
+    <string name="recommended_title">แนะนำ</string>
+    <string name="more_free_apps_label">ปพลิเคชันอื่น ๆ ฟรี</string>
+    <string name="main_setting_label">การตั้งค่า</string>
+    <string name="settings_bg_title">พื้นหลัง</string>
+    <string name="settings_quantity_title">ปริมาณ</string>
+    <string name="settings_size_title">ขนาด</string>
+    <string name="settings_speed_title">ความเร็ว</string>
+    <string name="settings_rotation_title">การหมุน</string>
+    <string name="settings_scrolling_title">เลื่อน</string>
+    <string name="settings_touch_title">สัมผัส</string>
+    <string name="settings_localimage_title">ภาพที่กำหนดเอง</string>
+    <string name="load_image_title">โหลดภาพ</string>
+    <string name="more_label">อื่น ๆ</string>
+    <string name="share_this_app_label">แบ่ง app นี้</string>
+    <string name="set_lwp_label">วอลล์เปเปอร์ตั้ง</string>
+	<string name="main_removead_label">ลบโฆษณา</string>
+
+    <string name="settings_fps">โหมดประหยัดพลังงาน</string>
+    <string name="settings_3d">3D โหมด</string>
+    <string name="settings_fps_sum">เปิด / ปิดตัวลง</string>
+    <string name="settings_particle_open">อนุภาค</string>
+    <string name="settings_particle_quantity">บับเบิ้ล จำนวนเงินที่</string>
+    <string name="settings_particle_key_title">บับเบิ้ล</string>
+    <string name="settings_particle_size">ขนาด</string>
+    <string name="settings_particle_speed">บับเบิ้ล ความเร็ว</string>
+    <string name="settings_particle_scroll">คลิก / สไลด์</string>
+    <string name="settings_scroll">สไลด์</string>
+    <string name="settings_playmode">โหมดในการเล่น</string>
+    <string name="settings_select_myimage">เลือกวอลล์เปเปอร์</string>
+
+    <string name="settings_daydream_title">สกรีนเซฟเวอร์ที่</string>
+    <string name="settings_Interactive_title">ปิดสัมผัส</string>
+
+    <string name="settings_scroll_sum">เลื่อนหน้าจอ,พื้นหลังที่เคลื่อนไหว</string>
+    <string name="settings_scroll_speed">สไลด์ ความเร็ว</string>
+
+    <string name="settings_particle_parallax">Parallax</string>
+    <string name="settings_parallax_mode">Parallax โหมด</string>
+
+
+
+    <string name="settings_rain_title">น้ำฝน</string>
+    <string name="settings_magic">มายากล</string>
+    <string name="settings_magic_sum">เขย่าโทรศัพท์มือถือของคุณ?</string>
+    <string name="settings_remove_icon_title">ไอคอน app ลบ</string>
+    <string name="settings_remove_icon_sum">ไอคอน app ลบ，อาจจะต้องรีบูต</string>
+    <string name="settings_autoPlay_title">เล่นอัตโนมัติ</string>
+    <string name="settings_autoPlay_sum">เปิด / ปิดตัวลง</string>
+    <string name="settings_star_title">ดาว</string>
+    <string name="settings_bubble_title">บับเบิ้ล</string>
+    <string name="settings_particle_title">อนุภาค</string>
+    <string name="main_game_label">เล่น</string>
+
+    <string name="settings_light_title">แสง</string>
+    <string name="settings_effect_mode_title">บับเบิ้ล / แสง</string>
+    <string name="settings_flower_title">ดอกไม้</string>
+    <string name="settings_effect_flower_title">ดอกไม้ / แสง</string>
+
+    <string name="settings_particle_touch_title">ผลกระทบสัมผัส</string>
+    <string name="settings_particle_mode_title">โหมดการแสดงผล</string>
+    <string name="settings_particle_mode_always_title">สามารถมองเห็นได้เสมอ</string>
+    <string name="settings_particle_mode_flash_title">ปรากฏบางครั้ง</string>
+
+    <!--ripple optional-->
+    <string name="settings_ripple_title">หยดน้ำ</string>
+    <string name="settings_ripple_drag_title">ลาก</string>
+    <string name="settings_ripple_sound_title">เสียง</string>
+    <!--end-->
+    <!-- array value-->
+    <string name="settings_less_title">ต่ำ</string>
+    <string name="settings_normal_title">ปกติ</string>
+    <string name="settings_more_title">หลาย</string>
+
+    <string name="settings_small_title">เล็ก</string>
+    <string name="settings_large_title">ใหญ่</string>
+
+    <string name="settings_slow_title">ช้า</string>
+    <string name="settings_fast_title">รวดเร็ว</string>
+
+    <string name="settings_path_top_title">ขึ้น</string>
+    <string name="settings_path_bottom_title">ลง</string>
+    <string name="settings_path_left_title">ซ้าย</string>
+    <string name="settings_path_right_title">ขวา</string>
+    <string name="settings_path_leftbottom_title">ล่างซ้าย</string>
+    <string name="settings_path_rightbottom_title">ขวาล่าง</string>
+    <string name="settings_path_lefttop_title">ด้านบนซ้าย</string>
+    <string name="settings_path_righttop_title">ขวาบน</string>
+    <!-- end -->
+    <string name="settings_snow_title">หิมะ</string>
+    <string name="settings_brightness_title">ความสว่าง</string>
+
+    <string name="settings_particle_path_title">ทิศทาง</string>
+    <string name="settings_autoColor_title">เปลี่ยนสีอัตโนมัติ</string>
+</resources>

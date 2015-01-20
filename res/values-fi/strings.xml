@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Finnish-->
+	<string name="more_devid_apps_label">Lisää Liven Taustakuva</string>
+	<string name="comment_this_app_label">Kommentti</string>
+    <string name="sponsored_label">Sponsoroi</string>
+    <string name="recommended_title">Suositeltu</string>
+    <string name="more_free_apps_label">Muu ILMAISISTA apps</string>
+    <string name="main_setting_label">Asetukset</string>
+    <string name="settings_bg_title">Tausta</string>
+    <string name="settings_quantity_title">Määrä</string>
+    <string name="settings_size_title">Koko</string>
+    <string name="settings_speed_title">Nopeus</string>
+    <string name="settings_rotation_title">Kierto</string>
+    <string name="settings_scrolling_title">Vieritys</string>
+    <string name="settings_touch_title">Kosketa</string>
+    <string name="settings_localimage_title">Mukautettu kuva</string>
+    <string name="load_image_title">Ladata kuva</string>
+    <string name="more_label">Muut</string>
+    <string name="share_this_app_label">Jaa Tämä sovellus</string>
+    <string name="set_lwp_label">Aseta taustakuvaksi</string>
+	<string name="main_removead_label">Poista mainokset</string>
+
+    <string name="settings_fps">säästää virtaa</string>
+    <string name="settings_3d">3D tila</string>
+    <string name="settings_fps_sum">avoin / suljettu</string>
+    <string name="settings_particle_open">hiukkanen</string>
+    <string name="settings_particle_quantity">kupla määrä</string>
+    <string name="settings_particle_key_title">kupla</string>
+    <string name="settings_particle_size">koko</string>
+    <string name="settings_particle_speed">kupla nopeus</string>
+    <string name="settings_particle_scroll">naksahtaa / liukumäki</string>
+    <string name="settings_scroll">liukumäki</string>
+    <string name="settings_playmode">pelata tila</string>
+    <string name="settings_select_myimage">Valitse tapetti</string>
+
+
+    <string name="settings_daydream_title">näytönsäästäjä</string>
+    <string name="settings_Interactive_title">kosketa suljettu</string>
+
+    <string name="settings_scroll_sum">Työnnä näytön hallita taustan liikettä</string>
+    <string name="settings_scroll_speed">liukumäki nopeus</string>
+
+    <string name="settings_particle_parallax">parallaksi</string>
+    <string name="settings_parallax_mode">parallaksi tila</string>
+
+
+
+    <string name="settings_rain_title">sadepisara</string>
+    <string name="settings_magic">taika</string>
+    <string name="settings_magic_sum">ravista luurin?</string>
+    <string name="settings_remove_icon_title">poista sovellus-kuvaketta</string>
+    <string name="settings_remove_icon_sum">poista sovellus-kuvaketta，ehkä aiheuttaa uudelleenkäynnistyksen</string>
+    <string name="settings_autoPlay_title">automaattipelin</string>
+    <string name="settings_autoPlay_sum">avoin / suljettu</string>
+    <string name="settings_star_title">tähteä</string>
+    <string name="settings_bubble_title">kupla</string>
+    <string name="settings_particle_title">hiukkanen</string>
+    <string name="main_game_label">aloittaa peli</string>
+
+    <string name="settings_light_title">valo</string>
+    <string name="settings_effect_mode_title">kupla / valo</string>
+    <string name="settings_flower_title">kukka</string>
+    <string name="settings_effect_flower_title">kukka / valo</string>
+
+    <string name="settings_particle_touch_title">touch vaikutus</string>
+    <string name="settings_particle_mode_title">näyttö tila</string>
+    <string name="settings_particle_mode_always_title">aina näkyvissä</string>
+    <string name="settings_particle_mode_flash_title">nähdä joskus</string>
+
+    <!--ripple optional-->
+    <string name="settings_ripple_title">vesipisara</string>
+    <string name="settings_ripple_drag_title">vetämällä</string>
+    <string name="settings_ripple_sound_title">ääni</string>
+    <!--end-->
+
+    <!-- array value-->
+    <string name="settings_less_title">Vähemmän</string>
+    <string name="settings_normal_title">Normaali</string>
+    <string name="settings_more_title">Lisää</string>
+
+    <string name="settings_small_title">Pieni</string>
+    <string name="settings_large_title">Suuri</string>
+
+    <string name="settings_slow_title">Hidas</string>
+    <string name="settings_fast_title">Nopeasti</string>
+
+    <string name="settings_path_top_title">ylös</string>
+    <string name="settings_path_bottom_title">alas</string>
+    <string name="settings_path_left_title">vasen</string>
+    <string name="settings_path_right_title">oikea</string>
+    <string name="settings_path_leftbottom_title">alhaalla vasemmalla</string>
+    <string name="settings_path_rightbottom_title">alhaalla oikealla</string>
+    <string name="settings_path_lefttop_title">ylävasemmasta</string>
+    <string name="settings_path_righttop_title">oikeassa yläkulmassa</string>
+    <!-- end -->
+    <string name="settings_snow_title">lumi</string>
+    <string name="settings_brightness_title">kirkkaus</string>
+
+    <string name="settings_particle_path_title">suuntaan</string>
+    <string name="settings_autoColor_title">auto vaihtaa väriä</string>
+</resources>
