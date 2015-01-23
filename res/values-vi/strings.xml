@@ -7,7 +7,6 @@
     <string name="recommended_title">Đê</string>
     <string name="more_free_apps_label">Ứng dụng miễn phí</string>
     <string name="main_setting_label">Cài đặt</string>
-	<string name="main_setting_label_plus">Cài đặt(Plus)</string>
     <string name="settings_bg_title">Bối cảnh</string>
     <string name="settings_quantity_title">Số lượng</string>
     <string name="settings_size_title">Kích</string>
@@ -21,6 +20,10 @@
     <string name="share_this_app_label">Chia sẻ Trang này App</string>
     <string name="set_lwp_label">Đặt hình nền</string>
 	<string name="main_removead_label">Hủy bỏ Quảng cáo</string>
+
+    <string name="settings_invert_colors_title">màu nghịch</string>
+    <string name="settings_select_colors_title">màu</string>
+    <string name="settings_smooth_title">bằng phẳng</string>
 
     <string name="settings_fps">tiết kiệm năng lượng chế độ</string>
     <string name="settings_3d">3D chế độ</string>
@@ -92,7 +95,8 @@
     <string name="settings_path_righttop_title">trên bên phải</string>
     <!-- end -->
     <string name="settings_snow_title">tuyết</string>
-	<string name="settings_brightness_title">độ sáng</string>
+    <string name="settings_brightness_title">độ sáng</string>
+
     <string name="settings_particle_path_title">hướng</string>
     <string name="settings_autoColor_title">tự động thay đổi màu sắc</string>
 </resources>

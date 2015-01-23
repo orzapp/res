@@ -7,7 +7,6 @@
     <string name="recommended_title">Poleca</string>
     <string name="more_free_apps_label">Więcej DARMOWE Aplikacje</string>
     <string name="main_setting_label">Ustawienia</string>
-	<string name="main_setting_label_plus">Ustawienia(Plus)</string>
     <string name="settings_bg_title">Tło</string>
     <string name="settings_quantity_title">Ilość</string>
     <string name="settings_size_title">Rozmiar</string>
@@ -21,6 +20,10 @@
     <string name="share_this_app_label">Poleć aplikację</string>
     <string name="set_lwp_label">Ustaw tapetę</string>
 	<string name="main_removead_label">Usuń reklamy</string>
+
+    <string name="settings_invert_colors_title">kolor inwertowanego</string>
+    <string name="settings_select_colors_title">kolor</string>
+    <string name="settings_smooth_title">gładki</string>
 
     <string name="settings_fps">zapisz moc</string>
     <string name="settings_3d">3D tryb</string>
@@ -95,7 +98,8 @@
     <string name="settings_path_righttop_title">prawy górny</string>
     <!-- end -->
     <string name="settings_snow_title">śnieg</string>
-	<string name="settings_brightness_title">jasność</string>
+    <string name="settings_brightness_title">jasność</string>
+
     <string name="settings_particle_path_title">kierunek</string>
     <string name="settings_autoColor_title">Zmiana koloru auto</string>
 

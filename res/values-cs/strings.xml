@@ -7,7 +7,6 @@
     <string name="recommended_title">Doporučené</string>
     <string name="more_free_apps_label">Další ZDARMA Apps</string>
     <string name="main_setting_label">Nastavení</string>
-	<string name="main_setting_label_plus">Nastavení(Plus)</string>
     <string name="settings_bg_title">Pozadí</string>
     <string name="settings_quantity_title">Množství</string>
     <string name="settings_size_title">Velikost</string>
@@ -41,10 +40,12 @@
 
     <string name="settings_scroll_sum">snímek obrazovky řídit pozadí</string>
     <string name="settings_scroll_speed">skluzavka rychlost</string>
-
     <string name="settings_particle_parallax">paralaxa</string>
     <string name="settings_parallax_mode">paralaxa režim</string>
 
+    <string name="settings_invert_colors_title">inverze barev</string>
+    <string name="settings_select_colors_title">barva</string>
+    <string name="settings_smooth_title">hladký</string>
 
 
     <string name="settings_rain_title">dešťová kapka</string>
@@ -96,7 +97,8 @@
     <string name="settings_path_righttop_title">pravý horní</string>
     <!-- end -->
     <string name="settings_snow_title">sníh</string>
-	<string name="settings_brightness_title">jas</string>
+    <string name="settings_brightness_title">jas</string>
+
     <string name="settings_particle_path_title">směr</string>
     <string name="settings_autoColor_title">Automatická změna barvy</string>
 

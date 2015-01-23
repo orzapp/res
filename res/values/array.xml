@@ -70,17 +70,6 @@
 		<item>flower</item>
 		<item>item</item>
 	</string-array>
-	<string-array name="ripple_size_array_title">
-		<item>@string/settings_small_title</item>
-		<item>@string/settings_normal_title</item>
-		<item>@string/settings_large_title</item>
-	</string-array>
-
-	<string-array name="ripple_size_array_values">
-		<item>65</item>
-		<item>55</item>
-		<item>45</item>
-	</string-array>
 	<string-array name="particle_path_title">
 		<item>@string/settings_path_top_title</item>
 		<item>@string/settings_path_bottom_title</item>
@@ -109,7 +98,6 @@
 		<item>5</item>
 		<item>6</item>
 		<item>7</item>
-		<item>8</item>
 	</string-array>
 	<string-array name="bg_select_value">
 		<item>0</item>
@@ -119,7 +107,6 @@
 		<item>4</item>
 		<item>5</item>
 		<item>6</item>
-		<item>7</item>
 	</string-array>
 	<string-array name="color_select_title">
 		<item>1</item>

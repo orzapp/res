@@ -7,7 +7,6 @@
     <string name="recommended_title">推奨さ</string>
     <string name="more_free_apps_label">無料アプリ</string>
     <string name="main_setting_label">設定</string>
-	<string name="main_setting_label_plus">設定(Plus)</string>
     <string name="settings_bg_title">背景</string>
     <string name="settings_quantity_title">数量</string>
     <string name="settings_size_title">サイズ</string>
@@ -23,6 +22,10 @@
 	<string name="settings_daydream_title">スクリーンセーバー</string>
 	<string name="settings_Interactive_title">触れる	クローズ</string>
 	<string name="main_removead_label">広告を削除</string>
+
+    <string name="settings_invert_colors_title">色反転</string>
+    <string name="settings_select_colors_title">色</string>
+    <string name="settings_smooth_title">スムーズ</string>
 
     <string name="settings_fps">パワーセーブモード</string>
     <string name="settings_3d">3D モード</string>
@@ -94,7 +97,8 @@
     <string name="settings_path_righttop_title">右上</string>
     <!-- end -->
     <string name="settings_snow_title">雪</string>
-	<string name="settings_brightness_title">明るさ</string>
+    <string name="settings_brightness_title">明るさ</string>
+
     <string name="settings_particle_path_title">方向</string>
     <string name="settings_autoColor_title">オートチェンジカラー</string>
 </resources>

@@ -7,7 +7,6 @@
     <string name="recommended_title">Disyorkan</string>
     <string name="more_free_apps_label">Lebih Apps PERCUMA</string>
     <string name="main_setting_label">Pengaturan</string>
-	<string name="main_setting_label_plus">Pengaturan(Plus)</string>
     <string name="settings_bg_title">Latar</string>
     <string name="settings_quantity_title">Kuantiti</string>
     <string name="settings_size_title">Saiz</string>
@@ -21,6 +20,10 @@
     <string name="share_this_app_label">Bagi app</string>
     <string name="set_lwp_label">Mengatur kertas dinding</string>
 	<string name="main_removead_label">Buang Iklan</string>
+
+    <string name="settings_invert_colors_title">warna terbalikkan</string>
+    <string name="settings_select_colors_title">warna</string>
+    <string name="settings_smooth_title">lancar</string>
 
     <string name="settings_fps">penjimatan kuasa mod</string>
     <string name="settings_3d">3D mod</string>
@@ -91,7 +94,8 @@
     <string name="settings_path_righttop_title">atas kanan</string>
     <!-- end -->
     <string name="settings_snow_title">salji</string>
-	<string name="settings_brightness_title">kecerahan</string>
+    <string name="settings_brightness_title">kecerahan</string>
+
     <string name="settings_particle_path_title">arah</string>
     <string name="settings_autoColor_title">perubahan auto warna</string>
 </resources>

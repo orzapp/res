@@ -7,7 +7,6 @@
     <string name="recommended_title">Ajánlott</string>
     <string name="more_free_apps_label">Más INGYENES Apps</string>
     <string name="main_setting_label">Beállítások</string>
-	<string name="main_setting_label_plus">Beállítások(Plus)</string>
     <string name="settings_bg_title">Háttér</string>
     <string name="settings_quantity_title">Mennyiség</string>
     <string name="settings_size_title">Méret</string>
@@ -21,6 +20,10 @@
     <string name="share_this_app_label">Ossza meg Ez app</string>
     <string name="set_lwp_label">Háttérkép beállítása</string>
 	<string name="main_removead_label">Eltávolítása hirdetések</string>
+
+    <string name="settings_invert_colors_title">inverz színe</string>
+    <string name="settings_select_colors_title">szín</string>
+    <string name="settings_smooth_title">sima</string>
 
     <string name="settings_fps">energiát takarít meg</string>
     <string name="settings_3d">3D mód</string>
@@ -95,7 +98,8 @@
     <string name="settings_path_righttop_title">jobb felső</string>
     <!-- end -->
     <string name="settings_snow_title">hó</string>
-	<string name="settings_brightness_title">fényesség</string>
+    <string name="settings_brightness_title">fényesség</string>
+    
     <string name="settings_particle_path_title">irány</string>
     <string name="settings_autoColor_title">auto színe megváltozik</string>
 </resources>
