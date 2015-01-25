@@ -7,6 +7,7 @@
     <string name="recommended_title">Anbefalet</string>
     <string name="more_free_apps_label">Andre GRATIS apps</string>
     <string name="main_setting_label">Indstillinger</string>
+	<string name="main_setting_label_plus">Indstillinger(Plus)</string>
     <string name="settings_bg_title">Baggrund</string>
     <string name="settings_quantity_title">Mængde</string>
     <string name="settings_size_title">Størrelse</string>
@@ -21,9 +22,11 @@
     <string name="set_lwp_label">Sæt tapet</string>
 	<string name="main_removead_label">Fjern annoncer</string>
 
-    <string name="settings_invert_colors_title">invertsukker farve</string>
-    <string name="settings_select_colors_title">farve</string>
-    <string name="settings_smooth_title">glat</string>
+    <string name="settings_mute_title">Mute</string>
+
+	<string name="settings_invert_colors_title">invertsukker farve</string>
+	<string name="settings_select_colors_title">farve</string>
+	<string name="settings_smooth_title">glat</string>
 
     <string name="settings_fps">spare strøm</string>
     <string name="settings_3d">3D tilstand</string>
@@ -99,8 +102,7 @@
     <string name="settings_path_righttop_title">øverst til højre</string>
     <!-- end -->
     <string name="settings_snow_title">sne</string>
-    <string name="settings_brightness_title">Lysstyrke</string>
-
+	<string name="settings_brightness_title">Lysstyrke</string>
     <string name="settings_particle_path_title">retning</string>
     <string name="settings_autoColor_title">auto skifter farve</string>
 

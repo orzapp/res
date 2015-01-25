@@ -7,6 +7,7 @@
     <string name="recommended_title">Anbefalt</string>
     <string name="more_free_apps_label">Andre GRATIS Apps</string>
     <string name="main_setting_label">Innstillinger</string>
+	<string name="main_setting_label_plus">Innstillinger(Plus)</string>
     <string name="settings_bg_title">Bakgrunn</string>
     <string name="settings_quantity_title">Antall</string>
     <string name="settings_size_title">Størrelse</string>
@@ -20,11 +21,9 @@
     <string name="share_this_app_label">Del denne app</string>
     <string name="set_lwp_label">Sett Bakgrunn</string>
 	<string name="main_removead_label">Fjern annonser</string>
-
-    <string name="settings_invert_colors_title">invertere farge</string>
-    <string name="settings_select_colors_title">farge</string>
-    <string name="settings_smooth_title">glatt</string>
-
+	<string name="settings_invert_colors_title">invertere farge</string>
+	<string name="settings_select_colors_title">farge</string>
+	<string name="settings_smooth_title">glatt</string>
     <string name="settings_fps">spare strøm</string>
     <string name="settings_3d">3D modus</string>
     <string name="settings_fps_sum">åpen / stengt</string>
@@ -38,6 +37,7 @@
     <string name="settings_playmode">spille modus</string>
     <string name="settings_select_myimage">velge tapet</string>
 
+    <string name="settings_mute_title">mute</string>
 
     <string name="settings_daydream_title">skjermsparer</string>
     <string name="settings_Interactive_title">lysbilde stengt</string>
@@ -97,8 +97,7 @@
     <string name="settings_path_righttop_title">øverst til høyre</string>
     <!-- end -->
     <string name="settings_snow_title">snø</string>
-    <string name="settings_brightness_title">lysstyrke</string>
-
+	<string name="settings_brightness_title">lysstyrke</string>
     <string name="settings_particle_path_title">retning</string>
     <string name="settings_autoColor_title">auto endre farge</string>
 </resources>

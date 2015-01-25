@@ -7,6 +7,7 @@
     <string name="recommended_title">Raccomandato</string>
     <string name="more_free_apps_label">Altre Apps GRATIS</string>
     <string name="main_setting_label">Impostazioni</string>
+	<string name="main_setting_label_plus">Impostazioni(Plus)</string>
     <string name="settings_bg_title">Fondo</string>
     <string name="settings_quantity_title">Quantità</string>
     <string name="settings_size_title">Taglia</string>
@@ -20,10 +21,11 @@
     <string name="share_this_app_label">Condividi questa App</string>
     <string name="set_lwp_label">Imposta sfondo</string>
 	<string name="main_removead_label">Rimuovere Ads</string>
+	<string name="settings_invert_colors_title">colore invertito</string>
+	<string name="settings_select_colors_title">colore</string>
+	<string name="settings_smooth_title">liscio</string>
 
-    <string name="settings_invert_colors_title">colore invertito</string>
-    <string name="settings_select_colors_title">colore</string>
-    <string name="settings_smooth_title">liscio</string>
+    <string name="settings_mute_title">muto</string>
 
     <string name="settings_fps">risparmiare energia</string>
     <string name="settings_3d">3D modo</string>
@@ -98,8 +100,7 @@
     <string name="settings_path_righttop_title">alto a destra</string>
     <!-- end -->
     <string name="settings_snow_title">neve</string>
-    <string name="settings_brightness_title">luminosità</string>
-
+	<string name="settings_brightness_title">luminosità</string>
     <string name="settings_particle_path_title">direzione</string>
     <string name="settings_autoColor_title">cambio automatico del colore</string>
 </resources>

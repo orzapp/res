@@ -7,6 +7,7 @@
     <string name="recommended_title">Aanbevolen</string>
     <string name="more_free_apps_label">Meer GRATIS Apps</string>
     <string name="main_setting_label">Instellingen</string>
+	<string name="main_setting_label_plus">Instellingen(Plus)</string>
     <string name="settings_bg_title">Achtergrond</string>
     <string name="settings_quantity_title">Qoeveelheid</string>
     <string name="settings_size_title">Maat</string>
@@ -20,11 +21,9 @@
     <string name="share_this_app_label">Deel deze applicatie</string>
     <string name="set_lwp_label">Stel Wallpaper</string>
 	<string name="main_removead_label">Verwijder Ads</string>
-
-    <string name="settings_invert_colors_title">omkeren kleur</string>
-    <string name="settings_select_colors_title">kleur</string>
-    <string name="settings_smooth_title">glad</string>
-
+	<string name="settings_invert_colors_title">omkeren kleur</string>
+	<string name="settings_select_colors_title">kleur</string>
+	<string name="settings_smooth_title">glad</string>
     <string name="settings_fps">vermogen mode</string>
     <string name="settings_3d">3D mode</string>
     <string name="settings_fps_sum">geopend / gesloten</string>
@@ -37,7 +36,7 @@
     <string name="settings_scroll">slide</string>
     <string name="settings_playmode">afspeelmodus</string>
     <string name="settings_select_myimage">kiezen achtergrond</string>
-
+    <string name="settings_mute_title">dempen</string>
 
     <string name="settings_daydream_title">screensaver</string>
     <string name="settings_Interactive_title">Raak gesloten</string>
@@ -98,8 +97,7 @@
     <string name="settings_path_righttop_title">rechterbovenhoek</string>
     <!-- end -->
     <string name="settings_snow_title">sneeuw</string>
-    <string name="settings_brightness_title">helderheid</string>
-
+	<string name="settings_brightness_title">helderheid</string>
     <string name="settings_particle_path_title">richting</string>
     <string name="settings_autoColor_title">automatisch van kleur veranderen</string>
 </resources>

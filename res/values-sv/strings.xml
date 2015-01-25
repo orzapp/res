@@ -7,6 +7,7 @@
     <string name="recommended_title">Rekommenderas</string>
     <string name="more_free_apps_label">Mer GRATIS Apps</string>
     <string name="main_setting_label">Inställningarna</string>
+	<string name="main_setting_label_plus">Inställningarna(Plus)</string>
     <string name="settings_bg_title">Bakgrund</string>
     <string name="settings_quantity_title">Kvantitet</string>
     <string name="settings_size_title">Storlek</string>
@@ -20,11 +21,9 @@
     <string name="share_this_app_label">Dela denna applikation</string>
     <string name="set_lwp_label">Ställa Bakgrund</string>
 	<string name="main_removead_label">Ta bort annonser</string>
-
-    <string name="settings_invert_colors_title">invertera färg</string>
-    <string name="settings_select_colors_title">färg</string>
-    <string name="settings_smooth_title">slät</string>
-
+	<string name="settings_invert_colors_title">invertera färg</string>
+	<string name="settings_select_colors_title">färg</string>
+	<string name="settings_smooth_title">slät</string>
     <string name="settings_fps">energisparläge</string>
     <string name="settings_3d">3D läge</string>
     <string name="settings_fps_sum">öppen / stängd</string>
@@ -37,7 +36,7 @@
     <string name="settings_scroll">glid</string>
     <string name="settings_playmode">spela läge</string>
     <string name="settings_select_myimage">välja tapeter</string>
-
+    <string name="settings_mute_title">mute</string>
     <string name="settings_daydream_title">skärmsläckare</string>
     <string name="settings_Interactive_title">beröra stängd</string>
 
@@ -97,8 +96,7 @@
     <string name="settings_path_righttop_title">övre högra</string>
     <!-- end -->
     <string name="settings_snow_title">snö</string>
-    <string name="settings_brightness_title">Ljusstyrka</string>
-
+	<string name="settings_brightness_title">Ljusstyrka</string>
     <string name="settings_particle_path_title">riktning</string>
     <string name="settings_autoColor_title">auto ändra färg</string>
 </resources>

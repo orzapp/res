@@ -7,6 +7,7 @@
     <string name="recommended_title">Recomandat</string>
     <string name="more_free_apps_label">Alte Aplicații Gratuite</string>
     <string name="main_setting_label">Setări</string>
+	<string name="main_setting_label_plus">Setări(Plus)</string>
     <string name="settings_bg_title">Fundal</string>
     <string name="settings_quantity_title">Cantitate</string>
     <string name="settings_size_title">Dimensiune</string>
@@ -20,11 +21,9 @@
     <string name="share_this_app_label">Împărtășesc această aplicații</string>
     <string name="set_lwp_label">Set tapet</string>
 	<string name="main_removead_label">Elimina anunțurile</string>
-
-    <string name="settings_invert_colors_title">culoare invertit</string>
-    <string name="settings_select_colors_title">culoare</string>
-    <string name="settings_smooth_title">neted</string>
-
+	<string name="settings_invert_colors_title">culoare invertit</string>
+	<string name="settings_select_colors_title">culoare</string>
+	<string name="settings_smooth_title">neted</string>
     <string name="settings_fps">Modul de economisire a energiei</string>
     <string name="settings_3d">3D mod</string>
     <string name="settings_fps_sum">deschis / închis</string>
@@ -37,6 +36,7 @@
     <string name="settings_scroll">diapozitiv</string>
     <string name="settings_playmode">juca mod</string>
     <string name="settings_select_myimage">alege tapet</string>
+    <string name="settings_mute_title">mut</string>
 
     <string name="settings_daydream_title">screensaver</string>
     <string name="settings_Interactive_title">atinge închis</string>
@@ -95,8 +95,7 @@
     <string name="settings_path_righttop_title">din dreapta sus</string>
     <!-- end -->
     <string name="settings_snow_title">zăpadă</string>
-    <string name="settings_brightness_title">strălucire</string>
-
+	<string name="settings_brightness_title">strălucire</string>
     <string name="settings_particle_path_title">direcție</string>
     <string name="settings_autoColor_title">schimbare automată culoare</string>
 </resources>

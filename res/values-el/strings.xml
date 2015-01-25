@@ -7,6 +7,7 @@
     <string name="recommended_title">Προτεινόμενα</string>
     <string name="more_free_apps_label">Άλλες Apps ΔΩΡΕΑΝ</string>
     <string name="main_setting_label">Ρυθμίσεις</string>
+	<string name="main_setting_label_plus">Ρυθμίσεις(Plus)</string>
     <string name="settings_bg_title">Φόντο</string>
     <string name="settings_quantity_title">Ποσότητα</string>
     <string name="settings_size_title">Μέγεθος</string>
@@ -20,9 +21,11 @@
     <string name="share_this_app_label">Μοιραστείτε αυτό το app</string>
     <string name="set_lwp_label">Ορισμός ταπετσαρίας</string>
 	<string name="main_removead_label">Απομάκρυνση διαφημίσεων</string>
-    <string name="settings_invert_colors_title">ιμβερτοποιημένο χρώμα</string>
-    <string name="settings_select_colors_title">χρώμα</string>
-    <string name="settings_smooth_title">λείος</string>
+	<string name="settings_invert_colors_title">ιμβερτοποιημένο χρώμα</string>
+	<string name="settings_select_colors_title">χρώμα</string>
+	<string name="settings_smooth_title">λείος</string>
+
+    <string name="settings_mute_title">βουβός</string>
 
     <string name="settings_fps">λειτουργία εξοικονόμησης ενέργειας</string>
     <string name="settings_3d">3D λειτουργία</string>
@@ -95,8 +98,7 @@
     <string name="settings_path_righttop_title">επάνω δεξιά</string>
     <!-- end -->
     <string name="settings_snow_title">χιόνι</string>
-    <string name="settings_brightness_title">λάμψη</string>
-
+	<string name="settings_brightness_title">λάμψη</string>
     <string name="settings_particle_path_title">κατεύθυνση</string>
     <string name="settings_autoColor_title">αλλαγή χρώματος αυτοκινήτων</string>
 </resources>

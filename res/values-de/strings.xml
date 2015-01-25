@@ -7,6 +7,7 @@
     <string name="recommended_title">Empfohlene</string>
     <string name="more_free_apps_label">Mehr GRATIS Apps</string>
     <string name="main_setting_label">Einstellungen</string>
+	<string name="main_setting_label_plus">Einstellungen(Plus)</string>
     <string name="settings_bg_title">Hintergrund</string>
     <string name="settings_quantity_title">Menge</string>
     <string name="settings_size_title">Größe</string>
@@ -21,9 +22,11 @@
     <string name="set_lwp_label">Hintergrundbild festlegen</string>
 	<string name="main_removead_label">Werbung ausblenden</string>
 
-    <string name="settings_invert_colors_title">Farbe invertieren</string>
-    <string name="settings_select_colors_title">Farbe</string>
-    <string name="settings_smooth_title">glatt</string>
+    <string name="settings_mute_title">stumm</string>
+
+	<string name="settings_invert_colors_title">Farbe invertieren</string>
+	<string name="settings_select_colors_title">Farbe</string>
+	<string name="settings_smooth_title">glatt</string>
 
     <string name="settings_fps">Strom sparen</string>
     <string name="settings_3d">3D Modus</string>
@@ -100,8 +103,7 @@
     <!-- end -->
 
     <string name="settings_snow_title">Schnee</string>
-    <string name="settings_brightness_title">Helligkeit</string>
-
+	<string name="settings_brightness_title">Helligkeit</string>
     <string name="settings_particle_path_title">Richtung</string>
     <string name="settings_autoColor_title">Auto Farbe ändern</string>
 

@@ -7,6 +7,7 @@
     <string name="recommended_title">แนะนำ</string>
     <string name="more_free_apps_label">ปพลิเคชันอื่น ๆ ฟรี</string>
     <string name="main_setting_label">การตั้งค่า</string>
+	<string name="main_setting_label_plus">การตั้งค่า(Plus)</string>
     <string name="settings_bg_title">พื้นหลัง</string>
     <string name="settings_quantity_title">ปริมาณ</string>
     <string name="settings_size_title">ขนาด</string>
@@ -20,11 +21,9 @@
     <string name="share_this_app_label">แบ่ง app นี้</string>
     <string name="set_lwp_label">วอลล์เปเปอร์ตั้ง</string>
 	<string name="main_removead_label">ลบโฆษณา</string>
-
-    <string name="settings_invert_colors_title">สีคว่ำ</string>
-    <string name="settings_select_colors_title">สี</string>
-    <string name="settings_smooth_title">เรียบ</string>
-
+	<string name="settings_invert_colors_title">สีคว่ำ</string>
+	<string name="settings_select_colors_title">สี</string>
+	<string name="settings_smooth_title">เรียบ</string>
     <string name="settings_fps">โหมดประหยัดพลังงาน</string>
     <string name="settings_3d">3D โหมด</string>
     <string name="settings_fps_sum">เปิด / ปิดตัวลง</string>
@@ -37,7 +36,7 @@
     <string name="settings_scroll">สไลด์</string>
     <string name="settings_playmode">โหมดในการเล่น</string>
     <string name="settings_select_myimage">เลือกวอลล์เปเปอร์</string>
-
+    <string name="settings_mute_title">ใบ้</string>
     <string name="settings_daydream_title">สกรีนเซฟเวอร์ที่</string>
     <string name="settings_Interactive_title">ปิดสัมผัส</string>
 
@@ -97,8 +96,7 @@
     <string name="settings_path_righttop_title">ขวาบน</string>
     <!-- end -->
     <string name="settings_snow_title">หิมะ</string>
-    <string name="settings_brightness_title">ความสว่าง</string>
-
+	<string name="settings_brightness_title">ความสว่าง</string>
     <string name="settings_particle_path_title">ทิศทาง</string>
     <string name="settings_autoColor_title">เปลี่ยนสีอัตโนมัติ</string>
 </resources>

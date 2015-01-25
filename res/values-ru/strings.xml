@@ -7,6 +7,7 @@
     <string name="recommended_title">Рекомендуемые</string>
     <string name="more_free_apps_label">Бесплатные Apps</string>
     <string name="main_setting_label">Настройки</string>
+	<string name="main_setting_label_plus">Настройки(Plus)</string>
     <string name="settings_bg_title">Фон</string>
     <string name="settings_quantity_title">Количество</string>
     <string name="settings_size_title">Размер</string>
@@ -24,16 +25,14 @@
 	<string name="settings_star_title">звезда</string>
 	<string name="settings_bubble_title">пузырь</string>
 	<string name="main_removead_label">Удалить рекламу</string>
-
-    <string name="settings_invert_colors_title">инвертировать цвета</string>
-    <string name="settings_select_colors_title">цвет</string>
-    <string name="settings_smooth_title">гладкий</string>
-
+	<string name="settings_invert_colors_title">инвертировать цвета</string>
+	<string name="settings_select_colors_title">цвет</string>
+	<string name="settings_smooth_title">гладкий</string>
 	<string name="settings_particle_touch_title">коснуться эффект</string>
 	<string name="settings_particle_mode_title">режим отображения</string>
 	<string name="settings_particle_mode_always_title">Всегда видно</string>
 	<string name="settings_particle_mode_flash_title">едва видна</string>
-
+    <string name="settings_mute_title">немой</string>
 
     <string name="settings_fps">экономии энергии</string>
     <string name="settings_3d">3D режим</string>
@@ -99,8 +98,7 @@
     <string name="settings_path_righttop_title">верхний правый</string>
     <!-- end -->
     <string name="settings_snow_title">снег</string>
-    <string name="settings_brightness_title">яркость</string>
-
+	<string name="settings_brightness_title">яркость</string>
     <string name="settings_particle_path_title">направление</string>
     <string name="settings_autoColor_title">Цвет автоматическое изменениеr</string>
 

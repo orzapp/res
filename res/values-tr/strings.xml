@@ -7,6 +7,7 @@
     <string name="recommended_title">Önerilen</string>
     <string name="more_free_apps_label">Daha ÜCRETSİZ Apps</string>
     <string name="main_setting_label">Ayarları</string>
+	<string name="main_setting_label_plus">Ayarları(Plus)</string>
     <string name="settings_bg_title">Arka plân</string>
     <string name="settings_quantity_title">Miktar</string>
     <string name="settings_size_title">Boyut</string>
@@ -20,11 +21,10 @@
     <string name="share_this_app_label">Bu App paylaş</string>
     <string name="set_lwp_label">Duvar kağıdını ayarla</string>
 	<string name="main_removead_label">Reklamlar Kaldır</string>
-
-    <string name="settings_invert_colors_title">invert renk</string>
-    <string name="settings_select_colors_title">renk</string>
-    <string name="settings_smooth_title">pürüzsüz</string>
-
+	<string name="settings_invert_colors_title">invert renk</string>
+	<string name="settings_select_colors_title">renk</string>
+	<string name="settings_smooth_title">pürüzsüz</string>
+    <string name="settings_mute_title">sessiz</string>
     <string name="settings_fps">güç tasarrufu</string>
     <string name="settings_3d">3D modu</string>
     <string name="settings_fps_sum">açık / kapalı</string>
@@ -98,8 +98,7 @@
     <string name="settings_path_righttop_title">üst sağ</string>
     <!-- end -->
     <string name="settings_snow_title">kar</string>
-    <string name="settings_brightness_title">parlaklık</string>
-
+	<string name="settings_brightness_title">parlaklık</string>
     <string name="settings_particle_path_title">yönü</string>
     <string name="settings_autoColor_title">Otomatik renk değiştiren</string>
 </resources>
