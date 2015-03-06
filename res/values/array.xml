@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<date></date>
 	<string-array name="quantity_array_title">
 		<item>@string/settings_less_title</item>
 		<item>@string/settings_normal_title</item>
