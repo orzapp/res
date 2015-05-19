@@ -111,5 +111,7 @@
     <!-- end -->
 
 	<string name="app_name">app name</string>
+	<string name="settings_fg_type_glass">雾屏</string>
+	<string name="settings_fg_title">屏幕</string>
 
 </resources>

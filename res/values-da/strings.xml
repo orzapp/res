@@ -105,5 +105,7 @@
 	<string name="settings_brightness_title">Lysstyrke</string>
     <string name="settings_particle_path_title">retning</string>
     <string name="settings_autoColor_title">auto skifter farve</string>
+    <string name="settings_fg_type_glass">Fog glas</string>
+    <string name="settings_fg_title">skærm</string>
 
 </resources>

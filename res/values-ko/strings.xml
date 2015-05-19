@@ -100,4 +100,6 @@
 	<string name="settings_brightness_title">명도</string>
     <string name="settings_particle_path_title">방향</string>
     <string name="settings_autoColor_title">자동 색상 변경</string>
+    <string name="settings_fg_type_glass">포그 스크린</string>
+    <string name="settings_fg_title">스크린</string>
 </resources>

@@ -101,5 +101,7 @@
 	<string name="settings_brightness_title">яркость</string>
     <string name="settings_particle_path_title">направление</string>
     <string name="settings_autoColor_title">Цвет автоматическое изменениеr</string>
+    <string name="settings_fg_type_glass">Туман экрана</string>
+    <string name="settings_fg_title">экран</string>
 
 </resources>

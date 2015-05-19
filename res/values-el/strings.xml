@@ -101,4 +101,6 @@
 	<string name="settings_brightness_title">λάμψη</string>
     <string name="settings_particle_path_title">κατεύθυνση</string>
     <string name="settings_autoColor_title">αλλαγή χρώματος αυτοκινήτων</string>
+    <string name="settings_fg_type_glass">ομιχλώδης γυαλί</string>
+    <string name="settings_fg_title">οθόνη</string>
 </resources>

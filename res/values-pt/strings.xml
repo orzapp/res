@@ -100,6 +100,8 @@
 	<string name="settings_brightness_title">brilho</string>
     <string name="settings_particle_path_title">direção</string>
     <string name="settings_autoColor_title">mudança automática de cores</string>
+    <string name="settings_fg_type_glass">tela de nevoeiro</string>
+    <string name="settings_fg_title">tela</string>
 
 
 </resources>

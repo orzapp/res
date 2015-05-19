@@ -100,4 +100,6 @@
 	<string name="settings_brightness_title">明るさ</string>
     <string name="settings_particle_path_title">方向</string>
     <string name="settings_autoColor_title">オートチェンジカラー</string>
+    <string name="settings_fg_type_glass">フォグスクリーン</string>
+    <string name="settings_fg_title">スクリーン</string>
 </resources>

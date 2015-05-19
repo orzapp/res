@@ -99,4 +99,6 @@
 	<string name="settings_brightness_title">luminosité</string>
     <string name="settings_particle_path_title">direction</string>
     <string name="settings_autoColor_title">changement automatique de couleur</string>
+    <string name="settings_fg_type_glass">écran de brouillard</string>
+    <string name="settings_fg_title">écran</string>
 </resources>

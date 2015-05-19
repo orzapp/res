@@ -100,5 +100,7 @@
 	<string name="settings_brightness_title">jasność</string>
     <string name="settings_particle_path_title">kierunek</string>
     <string name="settings_autoColor_title">Zmiana koloru auto</string>
+    <string name="settings_fg_type_glass">ekran mgła</string>
+    <string name="settings_fg_title">ekran</string>
 
 </resources>

@@ -101,5 +101,7 @@
 	<string name="settings_brightness_title">kecerahan</string>
     <string name="settings_particle_path_title">arah</string>
     <string name="settings_autoColor_title">berubah warna otomatis</string>
+    <string name="settings_fg_type_glass">kabut layar</string>
+    <string name="settings_fg_title">layar</string>
 
 </resources>

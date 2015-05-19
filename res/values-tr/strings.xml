@@ -101,4 +101,6 @@
 	<string name="settings_brightness_title">parlaklık</string>
     <string name="settings_particle_path_title">yönü</string>
     <string name="settings_autoColor_title">Otomatik renk değiştiren</string>
+    <string name="settings_fg_type_glass">Sis Ekranı</string>
+    <string name="settings_fg_title">ekran</string>
 </resources>

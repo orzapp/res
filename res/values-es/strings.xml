@@ -104,5 +104,7 @@
 	<string name="settings_brightness_title">brillo</string>
     <string name="settings_particle_path_title">dirección</string>
     <string name="settings_autoColor_title">cambio automático del color</string>
+    <string name="settings_fg_type_glass">cristal de niebla</string>
+    <string name="settings_fg_title">pantalla</string>
 
 </resources>

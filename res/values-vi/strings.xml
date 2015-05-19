@@ -97,4 +97,6 @@
 	<string name="settings_brightness_title">độ sáng</string>
     <string name="settings_particle_path_title">hướng</string>
     <string name="settings_autoColor_title">tự động thay đổi màu sắc</string>
+    <string name="settings_fg_type_glass">màn sương mù</string>
+    <string name="settings_fg_title">màn</string>
 </resources>

@@ -99,4 +99,6 @@
 	<string name="settings_brightness_title">ความสว่าง</string>
     <string name="settings_particle_path_title">ทิศทาง</string>
     <string name="settings_autoColor_title">เปลี่ยนสีอัตโนมัติ</string>
+    <string name="settings_fg_type_glass">หน้าจอหมอก</string>
+    <string name="settings_fg_title">จอภาพ</string>
 </resources>

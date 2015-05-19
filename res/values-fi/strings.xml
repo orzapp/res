@@ -102,4 +102,6 @@
 	<string name="settings_brightness_title">kirkkaus</string>
     <string name="settings_particle_path_title">suuntaan</string>
     <string name="settings_autoColor_title">auto vaihtaa väriä</string>
+    <string name="settings_fg_type_glass">sumuinen lasi</string>
+    <string name="settings_fg_title">kuvaruutu</string>
 </resources>

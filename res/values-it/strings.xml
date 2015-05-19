@@ -103,4 +103,6 @@
 	<string name="settings_brightness_title">luminosità</string>
     <string name="settings_particle_path_title">direzione</string>
     <string name="settings_autoColor_title">cambio automatico del colore</string>
+    <string name="settings_fg_type_glass">schermo nebbia</string>
+    <string name="settings_fg_title">schermo</string>
 </resources>

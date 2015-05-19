@@ -98,4 +98,6 @@
 	<string name="settings_brightness_title">strălucire</string>
     <string name="settings_particle_path_title">direcție</string>
     <string name="settings_autoColor_title">schimbare automată culoare</string>
+    <string name="settings_fg_type_glass">Ecranul de ceață</string>
+    <string name="settings_fg_title">ecran</string>
 </resources>

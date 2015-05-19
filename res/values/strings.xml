@@ -121,6 +121,9 @@
 	<string name="settings_path_lefttop_title">Upper-left</string>
 	<string name="settings_path_righttop_title">Upper-right</string>
     <!-- end -->
+	<!--add foggy glass-->
+	<string name="settings_fg_title">Screen</string>
+	<string name="settings_fg_type_glass">Foggy Glass</string>
 
 	<string name="app_name">app nam</string>
 	<string name="settings_activity">ActivitySetting</string>

@@ -98,4 +98,6 @@
 	<string name="settings_brightness_title">kecerahan</string>
     <string name="settings_particle_path_title">arah</string>
     <string name="settings_autoColor_title">perubahan auto warna</string>
+    <string name="settings_fg_type_glass">skrin kabus</string>
+    <string name="settings_fg_title">skrin</string>
 </resources>

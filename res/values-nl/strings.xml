@@ -100,4 +100,6 @@
 	<string name="settings_brightness_title">helderheid</string>
     <string name="settings_particle_path_title">richting</string>
     <string name="settings_autoColor_title">automatisch van kleur veranderen</string>
+    <string name="settings_fg_type_glass">fog scherm</string>
+    <string name="settings_fg_title">scherm</string>
 </resources>

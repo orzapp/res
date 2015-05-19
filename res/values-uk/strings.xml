@@ -103,6 +103,8 @@
 	<string name="settings_brightness_title">яскравість</string>
     <string name="settings_particle_path_title">напрямок</string>
     <string name="settings_autoColor_title">Колір автоматичне зміна</string>
+    <string name="settings_fg_type_glass">Туман екрану</string>
+    <string name="settings_fg_title">екран</string>
 
 
 </resources>

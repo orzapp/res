@@ -106,5 +106,7 @@
 	<string name="settings_brightness_title">Helligkeit</string>
     <string name="settings_particle_path_title">Richtung</string>
     <string name="settings_autoColor_title">Auto Farbe ändern</string>
+    <string name="settings_fg_type_glass">nebelig Glas</string>
+    <string name="settings_fg_title">Bildschirm</string>
 
 </resources>

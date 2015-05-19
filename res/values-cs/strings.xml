@@ -102,6 +102,8 @@
 	<string name="settings_brightness_title">jas</string>
     <string name="settings_particle_path_title">směr</string>
     <string name="settings_autoColor_title">Automatická změna barvy</string>
+    <string name="settings_fg_title">obrazovka</string>
+    <string name="settings_fg_type_glass">mlhavo sklo</string>
 
 
 </resources>

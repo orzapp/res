@@ -99,4 +99,6 @@
 	<string name="settings_brightness_title">Ljusstyrka</string>
     <string name="settings_particle_path_title">riktning</string>
     <string name="settings_autoColor_title">auto ändra färg</string>
+    <string name="settings_fg_type_glass">dimma skärm</string>
+    <string name="settings_fg_title">skärm</string>
 </resources>

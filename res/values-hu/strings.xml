@@ -100,4 +100,6 @@
 	<string name="settings_brightness_title">fényesség</string>
     <string name="settings_particle_path_title">irány</string>
     <string name="settings_autoColor_title">auto színe megváltozik</string>
+    <string name="settings_fg_type_glass">Képernyő köd</string>
+    <string name="settings_fg_title">képernyő</string>
 </resources>
