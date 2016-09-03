@@ -100,4 +100,14 @@
     <string name="settings_autoColor_title">perubahan auto warna</string>
     <string name="settings_fg_type_glass">skrin kabus</string>
     <string name="settings_fg_title">skrin</string>
+    <string name="settings_playmode_card">kad</string>
+    <string name="settings_playmode_door">pintu</string>
+    <string name="settings_playmode_flip">flip</string>
+    <string name="settings_playmode_grid">grid</string>
+    <string name="settings_playmode_slide">gelongsor</string>
+    <string name="settings_playmode_fade">pudar</string>
+    <string name="settings_playmode_fold">kali ganda</string>
+    <string name="settings_playmode_wind">바람</string>
+    <string name="settings_playmode_wipe">lap</string>
+    <string name="settings_reverse_title">terbalik</string>
 </resources>

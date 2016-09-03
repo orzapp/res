@@ -103,4 +103,14 @@
     <string name="settings_autoColor_title">Otomatik renk değiştiren</string>
     <string name="settings_fg_type_glass">Sis Ekranı</string>
     <string name="settings_fg_title">ekran</string>
+    <string name="settings_playmode_card">kart</string>
+    <string name="settings_playmode_door">kapı</string>
+    <string name="settings_playmode_flip">çevirmek</string>
+    <string name="settings_playmode_grid">ızgara</string>
+    <string name="settings_playmode_slide">kaymak</string>
+    <string name="settings_playmode_fade">karartmak</string>
+    <string name="settings_playmode_fold">kat</string>
+    <string name="settings_playmode_wind">rüzgar</string>
+    <string name="settings_playmode_wipe">silme</string>
+    <string name="settings_reverse_title">ters</string>
 </resources>

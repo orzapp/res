@@ -101,4 +101,14 @@
     <string name="settings_autoColor_title">เปลี่ยนสีอัตโนมัติ</string>
     <string name="settings_fg_type_glass">หน้าจอหมอก</string>
     <string name="settings_fg_title">จอภาพ</string>
+    <string name="settings_playmode_card">บัตร</string>
+    <string name="settings_playmode_door">ประตู</string>
+    <string name="settings_playmode_flip">ดีด</string>
+    <string name="settings_playmode_grid">ตะแกรง</string>
+    <string name="settings_playmode_slide">สไลด์</string>
+    <string name="settings_playmode_fade">จาง</string>
+    <string name="settings_playmode_fold">พับ</string>
+    <string name="settings_playmode_wind">ลม</string>
+    <string name="settings_playmode_wipe">เช็ด</string>
+    <string name="settings_reverse_title">ถอยหลัง</string>
 </resources>

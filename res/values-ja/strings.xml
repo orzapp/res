@@ -102,4 +102,14 @@
     <string name="settings_autoColor_title">オートチェンジカラー</string>
     <string name="settings_fg_type_glass">フォグスクリーン</string>
     <string name="settings_fg_title">スクリーン</string>
+    <string name="settings_playmode_card">カード</string>
+    <string name="settings_playmode_door">ドア</string>
+    <string name="settings_playmode_flip">フリップ</string>
+    <string name="settings_playmode_grid">グリッド</string>
+    <string name="settings_playmode_slide">滑り台</string>
+    <string name="settings_playmode_fade">フェード</string>
+    <string name="settings_playmode_fold">折り畳みます</string>
+    <string name="settings_playmode_wind">風</string>
+    <string name="settings_playmode_wipe">ワイプ</string>
+    <string name="settings_reverse_title">逆</string>
 </resources>

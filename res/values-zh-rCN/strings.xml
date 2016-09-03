@@ -113,5 +113,14 @@
 	<string name="app_name">app name</string>
 	<string name="settings_fg_type_glass">雾屏</string>
 	<string name="settings_fg_title">屏幕</string>
+	<string name="settings_playmode_card">卡片</string>
+	<string name="settings_playmode_door">裂开</string>
+	<string name="settings_playmode_fade">渐现</string>
+	<string name="settings_playmode_flip">翻转</string>
+	<string name="settings_playmode_fold">折叠</string>
+	<string name="settings_playmode_grid">网格</string>
+	<string name="settings_playmode_slide">滑出</string>
+	<string name="settings_playmode_wind">微风</string>
+	<string name="settings_playmode_wipe">擦除</string>
 
 </resources>

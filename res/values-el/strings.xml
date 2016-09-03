@@ -103,4 +103,14 @@
     <string name="settings_autoColor_title">αλλαγή χρώματος αυτοκινήτων</string>
     <string name="settings_fg_type_glass">ομιχλώδης γυαλί</string>
     <string name="settings_fg_title">οθόνη</string>
+    <string name="settings_playmode_card">κάρτα</string>
+    <string name="settings_playmode_door">θύρα</string>
+    <string name="settings_playmode_flip">αναρρίπτω</string>
+    <string name="settings_playmode_grid">πλέγμα</string>
+    <string name="settings_playmode_slide">ολίσθηση</string>
+    <string name="settings_playmode_fade">ξεθωριάζει</string>
+    <string name="settings_playmode_fold">πτυχή</string>
+    <string name="settings_playmode_wind">άνεμος</string>
+    <string name="settings_playmode_wipe">σκουπίζω</string>
+    <string name="settings_reverse_title">αντίστροφη</string>
 </resources>

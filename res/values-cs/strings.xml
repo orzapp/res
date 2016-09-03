@@ -104,6 +104,16 @@
     <string name="settings_autoColor_title">Automatická změna barvy</string>
     <string name="settings_fg_title">obrazovka</string>
     <string name="settings_fg_type_glass">mlhavo sklo</string>
+    <string name="settings_playmode_card">karta</string>
+    <string name="settings_playmode_door">dveře</string>
+    <string name="settings_playmode_fade">slábnout</string>
+    <string name="settings_playmode_flip">flip</string>
+    <string name="settings_playmode_fold">složit</string>
+    <string name="settings_playmode_slide">skluzavka</string>
+    <string name="settings_playmode_wipe">utřít</string>
+    <string name="settings_playmode_wind">vítr</string>
+    <string name="settings_playmode_grid">mřížka</string>
+    <string name="settings_reverse_title">zvrátit</string>
 
 
 </resources>

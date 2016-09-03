@@ -105,4 +105,14 @@
     <string name="settings_autoColor_title">cambio automatico del colore</string>
     <string name="settings_fg_type_glass">schermo nebbia</string>
     <string name="settings_fg_title">schermo</string>
+    <string name="settings_playmode_card">carta</string>
+    <string name="settings_playmode_door">porta</string>
+    <string name="settings_playmode_flip">capovolgere</string>
+    <string name="settings_playmode_grid">griglia</string>
+    <string name="settings_playmode_slide">diapositiva</string>
+    <string name="settings_playmode_fade">dissolvenza</string>
+    <string name="settings_playmode_fold">piega</string>
+    <string name="settings_playmode_wind">vento</string>
+    <string name="settings_playmode_wipe">pulire</string>
+    <string name="settings_reverse_title">inverso</string>
 </resources>

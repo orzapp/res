@@ -99,4 +99,15 @@
     <string name="settings_autoColor_title">tự động thay đổi màu sắc</string>
     <string name="settings_fg_type_glass">màn sương mù</string>
     <string name="settings_fg_title">màn</string>
+    <string name="settings_playmode_card">thẻ</string>
+    <string name="settings_playmode_door">cửa</string>
+    <string name="settings_playmode_flip">lật</string>
+    <string name="settings_playmode_grid">lưới</string>
+    <string name="settings_mute_title">tắt tiếng</string>
+    <string name="settings_playmode_slide">trượt</string>
+    <string name="settings_playmode_fade">phai màu</string>
+    <string name="settings_playmode_fold">gập lại</string>
+    <string name="settings_playmode_wind">微風</string>
+    <string name="settings_playmode_wipe">lau</string>
+    <string name="settings_reverse_title">đảo ngược</string>
 </resources>

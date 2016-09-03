@@ -106,5 +106,15 @@
     <string name="settings_autoColor_title">cambio automático del color</string>
     <string name="settings_fg_type_glass">cristal de niebla</string>
     <string name="settings_fg_title">pantalla</string>
+    <string name="settings_playmode_card">tarjeta</string>
+    <string name="settings_playmode_door">puerta</string>
+    <string name="settings_playmode_flip">dar la vuelta</string>
+    <string name="settings_playmode_grid">cuadrícula</string>
+    <string name="settings_playmode_slide">diapositiva</string>
+    <string name="settings_playmode_fade">descolorarse</string>
+    <string name="settings_playmode_fold">doblez</string>
+    <string name="settings_playmode_wind">viento</string>
+    <string name="settings_playmode_wipe">limpiar</string>
+    <string name="settings_reverse_title">marcha atrás</string>
 
 </resources>

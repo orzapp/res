@@ -108,5 +108,15 @@
     <string name="settings_autoColor_title">Auto Farbe ändern</string>
     <string name="settings_fg_type_glass">nebelig Glas</string>
     <string name="settings_fg_title">Bildschirm</string>
+    <string name="settings_playmode_card">Karte</string>
+    <string name="settings_playmode_door">Tür</string>
+    <string name="settings_playmode_flip">Flip</string>
+    <string name="settings_playmode_grid">Gitter</string>
+    <string name="settings_playmode_slide">gleiten</string>
+    <string name="settings_playmode_fade">verblassen</string>
+    <string name="settings_playmode_fold">falten</string>
+    <string name="settings_playmode_wind">Wind</string>
+    <string name="settings_playmode_wipe">wischen</string>
+    <string name="settings_reverse_title">umkehren</string>
 
 </resources>

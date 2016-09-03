@@ -102,4 +102,14 @@
     <string name="settings_autoColor_title">auto színe megváltozik</string>
     <string name="settings_fg_type_glass">Képernyő köd</string>
     <string name="settings_fg_title">képernyő</string>
+    <string name="settings_playmode_card">kártya</string>
+    <string name="settings_playmode_door">ajtó</string>
+    <string name="settings_playmode_flip">megfricskáz</string>
+    <string name="settings_playmode_grid">rács</string>
+    <string name="settings_playmode_slide">csúszik</string>
+    <string name="settings_playmode_fade">áttűnés</string>
+    <string name="settings_playmode_fold">szeres</string>
+    <string name="settings_playmode_wind">szél</string>
+    <string name="settings_playmode_wipe">törlés</string>
+    <string name="settings_reverse_title">fordított</string>
 </resources>

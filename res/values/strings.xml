@@ -120,6 +120,18 @@
 	<string name="settings_path_rightbottom_title">Lower-right</string>
 	<string name="settings_path_lefttop_title">Upper-left</string>
 	<string name="settings_path_righttop_title">Upper-right</string>
+
+	<string name="settings_playmode_fade">Fade</string>
+	<string name="settings_playmode_blur">Blur</string>
+	<string name="settings_playmode_card">Card</string>
+	<string name="settings_playmode_door">Door</string>
+	<string name="settings_playmode_flip">Flip</string>
+	<string name="settings_playmode_fold">Fold</string>
+	<string name="settings_playmode_grid">Grid</string>
+	<string name="settings_playmode_slide">Slide</string>
+	<string name="settings_playmode_wind">Wind</string>
+	<string name="settings_playmode_wipe">Wipe</string>
+
     <!-- end -->
 	<!--add foggy glass-->
 	<string name="settings_fg_title">Screen</string>

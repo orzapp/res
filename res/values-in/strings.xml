@@ -103,5 +103,15 @@
     <string name="settings_autoColor_title">berubah warna otomatis</string>
     <string name="settings_fg_type_glass">kabut layar</string>
     <string name="settings_fg_title">layar</string>
+    <string name="settings_playmode_card">kartu</string>
+    <string name="settings_playmode_door">pintu</string>
+    <string name="settings_playmode_flip">membalik</string>
+    <string name="settings_playmode_grid">kisi</string>
+    <string name="settings_playmode_slide">meluncur</string>
+    <string name="settings_playmode_fade">luntur</string>
+    <string name="settings_playmode_fold">melipat</string>
+    <string name="settings_playmode_wind">angin</string>
+    <string name="settings_playmode_wipe">menghapus</string>
+    <string name="settings_reverse_title">membalikkan</string>
 
 </resources>

@@ -100,4 +100,14 @@
     <string name="settings_autoColor_title">schimbare automată culoare</string>
     <string name="settings_fg_type_glass">Ecranul de ceață</string>
     <string name="settings_fg_title">ecran</string>
+    <string name="settings_playmode_card">card</string>
+    <string name="settings_playmode_door">ușă</string>
+    <string name="settings_playmode_flip">flip-</string>
+    <string name="settings_playmode_grid">grilă</string>
+    <string name="settings_playmode_slide">aluneca</string>
+    <string name="settings_playmode_fade">decolorare</string>
+    <string name="settings_playmode_fold">plia</string>
+    <string name="settings_playmode_wind">vânt</string>
+    <string name="settings_playmode_wipe">sterge</string>
+    <string name="settings_reverse_title">verso</string>
 </resources>

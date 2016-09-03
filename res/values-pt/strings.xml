@@ -102,6 +102,16 @@
     <string name="settings_autoColor_title">mudança automática de cores</string>
     <string name="settings_fg_type_glass">tela de nevoeiro</string>
     <string name="settings_fg_title">tela</string>
+    <string name="settings_playmode_card">cartão</string>
+    <string name="settings_playmode_door">porta</string>
+    <string name="settings_playmode_flip">giro</string>
+    <string name="settings_playmode_grid">grade</string>
+    <string name="settings_playmode_slide">deslizar</string>
+    <string name="settings_playmode_fade">desvaneça</string>
+    <string name="settings_playmode_fold">dobra</string>
+    <string name="settings_playmode_wind">vento</string>
+    <string name="settings_playmode_wipe">limpar</string>
+    <string name="settings_reverse_title">reverso</string>
 
 
 </resources>

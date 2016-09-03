@@ -101,22 +101,36 @@
 		<item>6</item>
 		<item>7</item>
 	</string-array>
+
+	<string-array name="playmode_select_title">
+		<item>@string/settings_playmode_fade</item>
+		<item>@string/settings_playmode_card</item>
+		<item>@string/settings_playmode_door</item>
+		<item>@string/settings_playmode_flip</item>
+		<item>@string/settings_playmode_fold</item>
+		<item>@string/settings_playmode_grid</item>
+		<item>@string/settings_playmode_slide</item>
+		<item>@string/settings_playmode_wind</item>
+		<item>@string/settings_playmode_wipe</item>
+	</string-array>
+	<string-array name="playmode_select_value">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+		<item>8</item>
+		<item>9</item>
+	</string-array>
+
+
 	<string-array name="bg_select_title">
 		<item>1</item>
 		<item>2</item>
 		<item>3</item>
-	</string-array>
-
-	<string-array name="ripple_sound_select_title">
-		<item>@string/settings_mute_title</item>
-		<item>1</item>
-		<item>2</item>
-	</string-array>
-
-	<string-array name="ripple_sound_select_value">
-		<item>0</item>
-		<item>1</item>
-		<item>2</item>
 	</string-array>
 
 	<string-array name="bg_select_value">
@@ -139,5 +153,17 @@
 		<item>3</item>
 		<item>4</item>
 		<item>5</item>
+	</string-array>
+
+	<string-array name="ripple_sound_select_title">
+		<item>@string/settings_mute_title</item>
+		<item>1</item>
+		<item>2</item>
+	</string-array>
+
+	<string-array name="ripple_sound_select_value">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
 	</string-array>
 </resources>

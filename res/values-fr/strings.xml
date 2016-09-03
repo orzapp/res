@@ -101,4 +101,14 @@
     <string name="settings_autoColor_title">changement automatique de couleur</string>
     <string name="settings_fg_type_glass">écran de brouillard</string>
     <string name="settings_fg_title">écran</string>
+    <string name="settings_playmode_card">carte</string>
+    <string name="settings_playmode_door">porte</string>
+    <string name="settings_playmode_flip">chiquenaude</string>
+    <string name="settings_playmode_grid">la grille</string>
+    <string name="settings_playmode_slide">faire glisser</string>
+    <string name="settings_playmode_fade">fondu</string>
+    <string name="settings_playmode_fold">plier</string>
+    <string name="settings_playmode_wind">Vent</string>
+    <string name="settings_playmode_wipe">essuyer</string>
+    <string name="settings_reverse_title">sens inverse</string>
 </resources>

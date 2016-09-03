@@ -103,5 +103,15 @@
     <string name="settings_autoColor_title">Цвет автоматическое изменениеr</string>
     <string name="settings_fg_type_glass">Туман экрана</string>
     <string name="settings_fg_title">экран</string>
+    <string name="settings_playmode_card">карта</string>
+    <string name="settings_playmode_door">дверь</string>
+    <string name="settings_playmode_flip">кувырок</string>
+    <string name="settings_playmode_grid">сетка</string>
+    <string name="settings_playmode_slide">горка</string>
+    <string name="settings_playmode_fade">увядать</string>
+    <string name="settings_playmode_fold">сложить</string>
+    <string name="settings_playmode_wind">ветер</string>
+    <string name="settings_playmode_wipe">вытирать</string>
+    <string name="settings_reverse_title">задний ход</string>
 
 </resources>

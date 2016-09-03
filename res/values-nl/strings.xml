@@ -102,4 +102,14 @@
     <string name="settings_autoColor_title">automatisch van kleur veranderen</string>
     <string name="settings_fg_type_glass">fog scherm</string>
     <string name="settings_fg_title">scherm</string>
+    <string name="settings_playmode_card">kaart</string>
+    <string name="settings_playmode_door">deur</string>
+    <string name="settings_playmode_flip">omdraaien</string>
+    <string name="settings_playmode_grid">rooster</string>
+    <string name="settings_playmode_slide">glijbaan</string>
+    <string name="settings_playmode_fade">vervagen</string>
+    <string name="settings_playmode_fold">vouwen</string>
+    <string name="settings_playmode_wind">wind</string>
+    <string name="settings_playmode_wipe">vegen</string>
+    <string name="settings_reverse_title">omgekeerde</string>
 </resources>
