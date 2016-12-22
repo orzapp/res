@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--Finnish-->
+    <string name="settings_ice_frame">ice runko</string>
+
 	<string name="more_devid_apps_label">Lisää Liven Taustakuva</string>
 	<string name="comment_this_app_label">Kommentti</string>
     <string name="sponsored_label">Sponsoroi</string>

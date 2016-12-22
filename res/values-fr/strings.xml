@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--French-->
+    <string name="settings_ice_frame">de la glace cadre</string>
+
 	<string name="more_devid_apps_label">Plus Fond d\'écran animés</string>
 	<string name="comment_this_app_label">Avis des utilisateurs</string>
     <string name="sponsored_label">Parrainé</string>

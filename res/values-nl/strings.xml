@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--Dutch-->
+    <string name="settings_ice_frame">ice kader</string>
+
 	<string name="more_devid_apps_label">Meer dynamisch Achtergrond</string>
 	<string name="comment_this_app_label">commentaar</string>
     <string name="sponsored_label">Gesponsorde</string>

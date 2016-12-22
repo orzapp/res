@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--Hungarian-->
+    <string name="settings_ice_frame">jég keret</string>
+
 	<string name="more_devid_apps_label">Más Élő Háttérkép</string>
 	<string name="comment_this_app_label">vélemények</string>
     <string name="sponsored_label">Szponzorált</string>

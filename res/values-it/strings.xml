@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--Italian-->
+    <string name="settings_ice_frame">ghiaccio confine</string>
+
 	<string name="more_devid_apps_label">più sfondo dal vivo</string>
 	<string name="comment_this_app_label">commento</string>
     <string name="sponsored_label">Sponsorizzato</string>

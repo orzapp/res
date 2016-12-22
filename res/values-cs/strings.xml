@@ -115,5 +115,7 @@
     <string name="settings_playmode_grid">mřížka</string>
     <string name="settings_reverse_title">zvrátit</string>
 
+    <string name="settings_ice_frame">Ice Border</string>
+
 
 </resources>

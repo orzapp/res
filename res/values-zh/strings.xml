@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+	<string name="settings_ice_frame">冰框</string>
+
 	<string name="settings_fps">省電模式</string>
 	<string name="settings_3d">3D 模式</string>
 	<string name="settings_fps_sum">開啟/關閉</string>

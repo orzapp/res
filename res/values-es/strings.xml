@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--Spanish-->
+    <string name="settings_ice_frame">hielo de fotograma</string>
+
 	<string name="more_devid_apps_label">Más Fondos animados</string>
 	<string name="comment_this_app_label">Comentario</string>
     <string name="sponsored_label">Patrocinado</string>
