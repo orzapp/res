@@ -1,0 +1,39 @@
+{
+  "noderce": {
+    "RecommendList": [
+      {
+        "cn": "LG G3",
+        "en": "LG G3",
+        "tw": "LG G3",
+        "pkg": "com.orzapp.g3free",
+        "icon": "g3"
+      },
+      {
+        "cn": "木纹",
+        "en": "wood",
+        "tw": "木纹",
+        "pkg": "com.orzapp.wood",
+        "icon": "wood"
+      }
+    ]
+  },
+  "node": {
+    "CommenList": [
+      {
+        "cn": "LG G3",
+        "en": "LG G3",
+        "tw": "LG G3",
+        "pkg": "com.orzapp.g3free",
+        "icon": "g3"
+      },
+      {
+        "cn": "木纹",
+        "en": "wood",
+        "tw": "木纹",
+        "pkg": "com.orzapp.wood",
+        "icon": "wood"
+      }
+    ]
+  },
+  "marketurl": "https://play.google.com/store/apps/details?id="
+}

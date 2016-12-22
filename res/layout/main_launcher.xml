@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+
+	<LinearLayout
+	android:id="@+id/ad_top_main"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:orientation="horizontal"
+	android:gravity="center_vertical|center_horizontal">
+	</LinearLayout>
+
+
+	<TextView
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:background="#ff222222"
+			android:drawableLeft="@drawable/icon"
+			android:drawablePadding="5.0dip"
+			android:gravity="center_vertical"
+			android:padding="5.0dip"
+			android:text="@string/app_name"
+			android:textColor="#fff0f0f0"
+			android:textSize="20.0sp"/>
+
+
+	<ScrollView android:layout_width="fill_parent"
+	            android:layout_height="wrap_content">
+		<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:orientation="vertical">
+
+
+			<LinearLayout
+					android:orientation="horizontal"
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					>
+
+				<Button
+						android:id="@+id/main_use_btn"
+						android:layout_width="match_parent"
+						android:layout_height="match_parent"
+						android:drawableTop="@drawable/ic_uselwp"
+						android:text="@string/set_lwp_label"
+						android:layout_weight="1"
+						android:paddingTop="32dp"
+						android:paddingBottom="32dp"/>
+				<Button
+						android:id="@+id/main_setting_btn"
+						android:layout_width="match_parent"
+						android:layout_height="match_parent"
+						android:drawableTop="@drawable/ic_setting"
+						android:text="@string/main_setting_label"
+						android:layout_weight="1"
+						android:paddingTop="32dp"
+						android:paddingBottom="32dp"/>
+
+			</LinearLayout>
+			<LinearLayout
+					android:orientation="horizontal"
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					>
+
+				<Button
+						android:id="@+id/app_devid"
+						android:layout_width="match_parent"
+						android:layout_height="match_parent"
+						android:drawableTop="@drawable/ic_morelwp"
+						android:text="@string/recommended_title"
+						android:layout_weight="1"
+						android:paddingTop="32dp"
+						android:paddingBottom="32dp"/>
+				<Button
+						android:id="@+id/app_wall"
+						android:layout_width="match_parent"
+						android:layout_height="match_parent"
+						android:drawableTop="@drawable/ic_freeapp"
+						android:text="@string/more_free_apps_label"
+						android:layout_weight="1"
+						android:paddingTop="32dp"
+						android:paddingBottom="32dp"/>
+			</LinearLayout>
+			<LinearLayout
+					android:id="@+id/rec_main"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:gravity="center_horizontal"
+					android:orientation="vertical"
+					android:paddingLeft="5dp"
+					android:paddingRight="5dp" >
+			</LinearLayout>
+
+			<!--<LinearLayout-->
+				<!--android:id="@+id/ad_bottom_main"-->
+				<!--android:layout_width="match_parent"-->
+				<!--android:layout_height="wrap_content"-->
+				<!--android:gravity="start|bottom"-->
+				<!--android:orientation="horizontal"-->
+				<!--android:padding="5dp">-->
+
+			<!--</LinearLayout>-->
+
+		</LinearLayout>
+
+	</ScrollView>
+	<!--<LinearLayout-->
+			<!--android:id="@+id/ad_bottom_main"-->
+			<!--android:layout_width="match_parent"-->
+			<!--android:layout_height="0dip"-->
+			<!--android:layout_weight="1"-->
+			<!--android:orientation="vertical"-->
+			<!--android:gravity="center|bottom">-->
+	<!--</LinearLayout>-->
+
+</LinearLayout>

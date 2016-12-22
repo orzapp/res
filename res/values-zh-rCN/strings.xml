@@ -112,7 +112,6 @@
 
     <!-- end -->
 
-	<string name="app_name">app name</string>
 	<string name="settings_fg_type_glass">雾屏</string>
 	<string name="settings_fg_title">屏幕</string>
 	<string name="settings_playmode_card">卡片</string>
@@ -124,5 +123,7 @@
 	<string name="settings_playmode_slide">滑出</string>
 	<string name="settings_playmode_wind">微风</string>
 	<string name="settings_playmode_wipe">擦除</string>
+	
+	<string name="app_name">app name</string>
 
 </resources>
