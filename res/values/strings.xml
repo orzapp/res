@@ -136,7 +136,7 @@
 	<!--add foggy glass-->
 	<string name="settings_fg_title">Screen</string>
 	<string name="settings_fg_type_glass">Foggy Glass</string>
-	<string name="settings_icescreen">Ice Screen</string>
+	<string name="settings_icescreen">Ice Frame</string>
 	
 	<string name="app_name">app nam</string>
 	<string name="settings_activity">com.alivewallpaperappinfo.ActivitySetting</string>
