@@ -2,183 +2,39 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
 				  android:key="soft_setting"
 				  android:title="@string/main_setting_label">
-	<PreferenceCategory android:title="@string/sponsored_label">
-		<Preference android:key="more_free_apps_top"
-		            android:title="@string/more_free_apps_label"
-		            android:icon="@drawable/ic_freeapp_setting"/>
-	</PreferenceCategory>
-	<PreferenceCategory android:title="@string/main_setting_label">
-		<com.alivewallpaperappinfo.CustomSwitchPreference android:key="settings_saving_key"
-							android:defaultValue="false"
-							android:icon="@drawable/ic_saving"
-							android:title="@string/settings_fps"/>
 
-		<com.alivewallpaperappinfo.SeekBarPreference
-				android:key="settings_Brightness_key"
-				android:defaultValue="10"
-				android:dialogLayout="@layout/seekbar"
-				android:icon="@drawable/ic_light"
-				android:title="@string/settings_brightness_title"/>
-
+	<PreferenceCategory android:title="@string/settings_fg_title">
 		<com.alivewallpaperappinfo.CustomSwitchPreference android:key="settings_scroll_key"
-							android:defaultValue="true"
-							android:icon="@drawable/ic_scroll"
-							android:title="@string/settings_scrolling_title"/>
+			android:defaultValue="true"
+			android:icon="@drawable/ic_scroll"
+			android:title="@string/settings_scrolling_title"/>
 		<com.alivewallpaperappinfo.CustomSwitchPreference android:key="settings_parallax_key"
-							android:defaultValue="true"
-							android:icon="@drawable/ic_parallax"
-							android:title="@string/settings_particle_parallax"/>
+			android:defaultValue="true"
+			android:icon="@drawable/ic_parallax"
+			android:title="@string/settings_particle_parallax"/>
 	</PreferenceCategory>
+
 	<PreferenceCategory android:title="@string/settings_bg_title">
-
-
 		<MultiSelectListPreference android:key="settings_bg_multiselect_key"
 		                           android:defaultValue="@array/bg_select_value"
 		                           android:entries="@array/bg_select_title"
 		                           android:entryValues="@array/bg_select_value"
 		                           android:icon="@drawable/ic_selectbg"
 		                           android:title="@string/settings_bg_title"/>
-
-		<ListPreference android:key="settings_playmode_key"
-		                android:defaultValue="fade"
-		                android:entries="@array/playmode_select_title"
-		                android:entryValues="@array/playmode_select_value"
-		                android:title="@string/settings_playmode"
-						android:icon="@drawable/ic_playmode"/>
-		<!-- <com.alivewallpaperappinfo.CustomSwitchPreference android:key="settings_bg_light_key"
-			android:defaultValue="true"
-			android:title="@string/settings_light_title"
-			android:icon="@drawable/ic_sun"/> -->
-
-		<!--<com.alivewallpaperappinfo.CustomSwitchPreference android:key="settings_localimage_key"-->
-		                  <!--android:defaultValue="false"-->
-		                  <!--android:icon="@drawable/ic_custom"-->
-		                  <!--android:title="@string/settings_localimage_title"/>-->
-
-		<!--<Preference android:key="load_image_key"-->
-		            <!--android:dependency="settings_localimage_key"-->
-		            <!--android:title="@string/load_image_title"/>-->
-
-
-
-		<!--	<ListPreference android:key="settings_select_conste_key"
-								android:defaultValue="0"
-								android:entries="@array/conste_select_title"
-								android:entryValues="@array/conste_select_value"
-								android:title="@string/settings_conste_title"
-								android:icon="@drawable/conste"/>-->
 	</PreferenceCategory>
-	<PreferenceCategory android:title="@string/settings_fg_title">
-		<com.alivewallpaperappinfo.CustomSwitchPreference android:key="settings_fg_key"
-		                  android:defaultValue="false"
-		                  android:icon="@drawable/ic_fg"
-		                  android:title="@string/settings_fg_type_glass"/>
-		<!-- <ListPreference android:title="@string/settings_fg_type_glass"
-										android:key="settings_fg_select_key"
-										android:dependency="settings_fg_key"
-										android:defaultValue="1"
-										android:entries="@array/settings_fg_select_title"
-										android:entryValues="@array/settings_fg_select_value"
-										android:icon="@drawable/ic_lsrs"/> -->
-		<com.alivewallpaperappinfo.CustomSwitchPreference android:key="settings_ice_frame_key"
-			android:defaultValue="false"
-			android:icon="@drawable/ic_ice_frame"
-			android:title="@string/settings_ice_frame"/>
 
-	</PreferenceCategory>
 	<PreferenceCategory android:title="@string/settings_ripple_title">
 		<com.alivewallpaperappinfo.CustomSwitchPreference android:key="settings_ripple_key"
 						android:defaultValue="true"
 						android:icon="@drawable/ic_ripple"
-						android:title="@string/settings_ripple_title"
-			/>
-		<com.alivewallpaperappinfo.CustomSwitchPreference android:key="settings_ripple_drag"
-							android:dependency="settings_ripple_key"
-							android:defaultValue="true"
-							android:icon="@drawable/ic_drag"
-							android:title="@string/settings_ripple_drag_title"
-				/>
-		<ListPreference android:key="settings_ripple_size_key"
-		                android:dependency="settings_ripple_key"
-		                android:defaultValue="55"
-		                android:entries="@array/ripple_size_array_title"
-		                android:entryValues="@array/ripple_size_array_values"
-		                android:icon="@drawable/ic_rsize"
-		                android:title="@string/settings_particle_size"/>
-		<ListPreference android:key="settings_ripple_sound_select"
-		                android:dependency="settings_ripple_key"
-		                android:defaultValue="0"
-		                android:entries="@array/ripple_sound_select_title"
-		                android:entryValues="@array/ripple_sound_select_value"
-		                android:icon="@drawable/ic_sound"
-		                android:title="@string/settings_ripple_sound_title"
-				/>
+						android:title="@string/settings_ripple_title"/>
 	</PreferenceCategory >
-
-	<PreferenceCategory android:title="@string/settings_select_colors_title">
-		<com.alivewallpaperappinfo.CustomSwitchPreference android:key="settings_invert_color_key"
-							android:defaultValue="false"
-							android:icon="@drawable/ic_invert"
-							android:title="@string/settings_invert_colors_title"/>
-		<com.alivewallpaperappinfo.CustomSwitchPreference android:key="settings_auto_color_key"
-							android:defaultValue="false"
-							android:disableDependentsState="true"
-							android:icon="@drawable/ic_autocolor"
-							android:title="@string/settings_autoColor_title"/>
-		<ListPreference android:key="settings_color_select_key"
-						android:dependency="settings_auto_color_key"
-						android:defaultValue="0"
-						android:entries="@array/color_select_title"
-						android:entryValues="@array/color_select_value"
-						android:icon="@drawable/ic_color"
-						android:title="@string/settings_select_colors_title"/>
-	</PreferenceCategory>
 
 	<PreferenceCategory android:title="@string/settings_light_title">
 		<com.alivewallpaperappinfo.CustomSwitchPreference android:key="settings_particle_key"
-							android:defaultValue="true"
+							android:defaultValue="false"
 							android:icon="@drawable/ic_sun"
 							android:title="@string/settings_light_title"/>
-		<!-- <ListPreference android:title="@string/settings_particle_title"
-										android:icon="@drawable/ic_lsrs"
-										android:key="settings_particle_mode_key"
-										android:dependency="settings_particle_key"
-										android:defaultValue="2"
-										android:entries="@array/particle_mode_select_title"
-										android:entryValues="@array/particle_mode_select_value"/> -->
-		<com.alivewallpaperappinfo.CustomSwitchPreference android:key="settings_particle_touch_key"
-		                    android:dependency="settings_particle_key"
-		                    android:defaultValue="true"
-		                    android:icon="@drawable/ic_touch"
-		                    android:title="@string/settings_touch_title"/>
-		<ListPreference android:key="settings_particle_path_key"
-						android:dependency="settings_particle_key"
-						android:defaultValue="0"
-						android:entries="@array/particle_path_title"
-						android:entryValues="@array/particle_path_values"
-						android:icon="@drawable/ic_fangxiang"
-						android:title="@string/settings_particle_path_title"/>
-		<ListPreference android:key="settings_particle_quantity"
-						android:dependency="settings_particle_key"
-						android:icon="@drawable/ic_quantity"
-						android:title="@string/settings_quantity_title"
-						android:defaultValue="50"
-						android:entries="@array/quantity_array_title"
-						android:entryValues="@array/quantity_array_values"/>
-		<ListPreference android:key="settings_particle_size"
-						android:dependency="settings_particle_key"
-						android:icon="@drawable/ic_size"
-						android:title="@string/settings_size_title"
-						android:defaultValue="1.0"
-						android:entries="@array/size_array_title"
-						android:entryValues="@array/size_array_values"/>
-		<ListPreference android:key="settings_particle_speed"
-						android:dependency="settings_particle_key"
-						android:icon="@drawable/ic_speed"
-						android:title="@string/settings_speed_title"
-						android:defaultValue="5"
-						android:entries="@array/speed_array_title"
-						android:entryValues="@array/speed_array_values"/>
 	</PreferenceCategory>
 	<PreferenceCategory android:title="@string/settings_particle_touch_title">
 		<com.alivewallpaperappinfo.CustomSwitchPreference android:key="settings_effect_key"
@@ -186,18 +42,12 @@
 							android:icon="@drawable/ic_particle"
 							android:title="@string/settings_particle_touch_title"/>
 	</PreferenceCategory>
-	<PreferenceCategory android:title="@string/settings_daydream_title">
-		<com.alivewallpaperappinfo.CustomSwitchPreference android:key="daydream_key"
-							android:defaultValue="true"
-							android:icon="@drawable/ic_close"
-							android:title="@string/settings_Interactive_title"/>
+
+	<PreferenceCategory android:title="@string/settings_advanced" >
+		<Preference android:key="settings_advanced"
+			android:title="@string/settings_advanced"/>
 	</PreferenceCategory>
-	<PreferenceCategory android:title="@string/settings_remove_icon_title">
-		<com.alivewallpaperappinfo.CustomSwitchPreference android:key="settings_icon_key"
-							android:defaultValue="true"
-							android:icon="@drawable/ic_icon"
-							android:title="@string/settings_remove_icon_title"/>
-	</PreferenceCategory>
+
 	<PreferenceCategory android:title="@string/more_label">
 		<PreferenceScreen
 				android:key="comment_this_app"

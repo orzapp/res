@@ -123,7 +123,8 @@
 	<string name="settings_playmode_slide">滑出</string>
 	<string name="settings_playmode_wind">微风</string>
 	<string name="settings_playmode_wipe">擦除</string>
-	
+	<string name="settings_advanced">高级设置</string>
+
 	<string name="app_name">app name</string>
 
 </resources>

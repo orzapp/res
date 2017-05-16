@@ -132,7 +132,8 @@
 	<string name="settings_playmode_fold">折疊</string>
 	<string name="settings_playmode_wind">微風</string>
 	<string name="settings_playmode_wipe">擦除</string>
+	<string name="settings_advanced">高級設定</string>
 
 	<string name="app_name">app name</string>
-	
+
 </resources>
