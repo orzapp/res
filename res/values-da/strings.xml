@@ -120,4 +120,6 @@
     <string name="settings_playmode_wipe">tørre</string>
     <string name="settings_reverse_title">bagside</string>
 
+    <string name="settings_advanced">Avancerede indstillinger</string>
+
 </resources>

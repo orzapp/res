@@ -112,4 +112,6 @@
     <string name="settings_playmode_wind">vânt</string>
     <string name="settings_playmode_wipe">sterge</string>
     <string name="settings_reverse_title">verso</string>
+
+    <string name="settings_advanced">setări avansate</string>
 </resources>

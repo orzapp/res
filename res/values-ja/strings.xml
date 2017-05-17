@@ -114,4 +114,7 @@
     <string name="settings_playmode_wind">風</string>
     <string name="settings_playmode_wipe">ワイプ</string>
     <string name="settings_reverse_title">逆</string>
+
+    <string name="settings_advanced">高度な設定</string>
+
 </resources>

@@ -113,4 +113,6 @@
     <string name="settings_playmode_wind">vind</string>
     <string name="settings_playmode_wipe">torka</string>
     <string name="settings_reverse_title">omvänd</string>
+
+    <string name="settings_advanced">avancerade inställningar</string>
 </resources>

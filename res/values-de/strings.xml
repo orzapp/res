@@ -121,4 +121,6 @@
     <string name="settings_playmode_wipe">wischen</string>
     <string name="settings_reverse_title">umkehren</string>
 
+    <string name="settings_advanced">Erweiterte Einstellungen</string>
+
 </resources>

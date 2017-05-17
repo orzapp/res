@@ -119,4 +119,7 @@
     <string name="settings_playmode_wipe">limpiar</string>
     <string name="settings_reverse_title">marcha atrás</string>
 
+    <string name="settings_advanced">Ajustes avanzados</string>
+
+
 </resources>

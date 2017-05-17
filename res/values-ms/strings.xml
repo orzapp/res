@@ -112,4 +112,6 @@
     <string name="settings_playmode_wind">angin</string>
     <string name="settings_playmode_wipe">lap</string>
     <string name="settings_reverse_title">terbalik</string>
+
+    <string name="settings_advanced">tetapan lanjutan</string>
 </resources>

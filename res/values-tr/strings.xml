@@ -115,4 +115,6 @@
     <string name="settings_playmode_wind">rüzgar</string>
     <string name="settings_playmode_wipe">silme</string>
     <string name="settings_reverse_title">ters</string>
+
+    <string name="settings_advanced">Gelişmiş ayarlar</string>
 </resources>

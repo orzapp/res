@@ -116,4 +116,7 @@
     <string name="settings_playmode_wind">άνεμος</string>
     <string name="settings_playmode_wipe">σκουπίζω</string>
     <string name="settings_reverse_title">αντίστροφη</string>
+
+    <string name="settings_advanced">Προηγμένες ρυθμίσεις</string>
+
 </resources>

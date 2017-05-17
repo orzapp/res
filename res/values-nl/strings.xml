@@ -114,4 +114,6 @@
     <string name="settings_playmode_wind">wind</string>
     <string name="settings_playmode_wipe">vegen</string>
     <string name="settings_reverse_title">omgekeerde</string>
+
+    <string name="settings_advanced">geavanceerde instellingen</string>
 </resources>

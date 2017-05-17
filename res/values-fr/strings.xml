@@ -113,4 +113,6 @@
     <string name="settings_playmode_wind">Vent</string>
     <string name="settings_playmode_wipe">essuyer</string>
     <string name="settings_reverse_title">sens inverse</string>
+
+    <string name="settings_advanced">options avancées</string>
 </resources>

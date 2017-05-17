@@ -115,4 +115,6 @@
     <string name="settings_playmode_wipe">wycierać</string>
     <string name="settings_reverse_title">rewers</string>
 
+
+    <string name="settings_advanced">zaawansowane ustawienia</string>
 </resources>

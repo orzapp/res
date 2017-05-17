@@ -114,4 +114,7 @@
     <string name="settings_playmode_wind">바람</string>
     <string name="settings_playmode_wipe">닦음</string>
     <string name="settings_reverse_title">역</string>
+
+    <string name="settings_advanced">고급 설정</string>
+
 </resources>

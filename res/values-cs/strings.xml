@@ -117,5 +117,7 @@
 
     <string name="settings_ice_frame">Ice Border</string>
 
+    <string name="settings_advanced">Pokročilé nastavení</string>
+
 
 </resources>

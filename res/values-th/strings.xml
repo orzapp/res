@@ -113,4 +113,6 @@
     <string name="settings_playmode_wind">ลม</string>
     <string name="settings_playmode_wipe">เช็ด</string>
     <string name="settings_reverse_title">ถอยหลัง</string>
+
+    <string name="settings_advanced">ตั้งค่าขั้นสูง</string>
 </resources>

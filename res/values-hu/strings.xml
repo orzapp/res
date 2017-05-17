@@ -114,4 +114,6 @@
     <string name="settings_playmode_wind">szél</string>
     <string name="settings_playmode_wipe">törlés</string>
     <string name="settings_reverse_title">fordított</string>
+
+    <string name="settings_advanced">További beállítások</string>
 </resources>

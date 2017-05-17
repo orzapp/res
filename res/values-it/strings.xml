@@ -117,4 +117,6 @@
     <string name="settings_playmode_wind">vento</string>
     <string name="settings_playmode_wipe">pulire</string>
     <string name="settings_reverse_title">inverso</string>
+
+    <string name="settings_advanced">Impostazioni avanzate</string>
 </resources>

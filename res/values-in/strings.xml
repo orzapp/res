@@ -116,4 +116,6 @@
     <string name="settings_playmode_wipe">menghapus</string>
     <string name="settings_reverse_title">membalikkan</string>
 
+    <string name="settings_advanced">Opsi lainnya</string>
+
 </resources>
