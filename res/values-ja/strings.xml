@@ -115,6 +115,9 @@
     <string name="settings_playmode_wipe">ワイプ</string>
     <string name="settings_reverse_title">逆</string>
 
-    <string name="settings_advanced">高度な設定</string>
+    <string name="settings_advanced">高級な設定</string>
+
+    <string name="settings_category_general">一般な設定</string>
+    <string name="settings__category_advanced">高級な設定</string>
 
 </resources>

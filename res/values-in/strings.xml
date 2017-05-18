@@ -118,4 +118,7 @@
 
     <string name="settings_advanced">Opsi lainnya</string>
 
+    <string name="settings_category_general">pengaturan umum</string>
+    <string name="settings__category_advanced">Pengaturan lanjutan</string>
+
 </resources>

@@ -116,4 +116,8 @@
     <string name="settings_reverse_title">fordított</string>
 
     <string name="settings_advanced">További beállítások</string>
+
+    <string name="settings_category_general">Általános beállítás</string>
+    <string name="settings__category_advanced">Speciális beállítások</string>
+
 </resources>

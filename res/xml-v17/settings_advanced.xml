@@ -15,24 +15,17 @@
 			android:icon="@drawable/ic_light"
 			android:title="@string/settings_brightness_title"/>
 
-		<com.alivewallpaperappinfo.CustomSwitchPreference android:key="settings_fg_key"
-			android:defaultValue="false"
-			android:icon="@drawable/ic_fg"
-			android:title="@string/settings_fg_type_glass"/>
-		<com.alivewallpaperappinfo.CustomSwitchPreference android:key="settings_ice_frame_key"
-			android:defaultValue="false"
-			android:icon="@drawable/ic_ice_frame"
-			android:title="@string/settings_ice_frame"/>
+		<!--<com.alivewallpaperappinfo.CustomSwitchPreference android:key="settings_fg_key"-->
+			<!--android:defaultValue="false"-->
+			<!--android:icon="@drawable/ic_fg"-->
+			<!--android:title="@string/settings_fg_type_glass"/>-->
+		<!--<com.alivewallpaperappinfo.CustomSwitchPreference android:key="settings_ice_frame_key"-->
+			<!--android:defaultValue="false"-->
+			<!--android:icon="@drawable/ic_ice_frame"-->
+			<!--android:title="@string/settings_ice_frame"/>-->
 
 	</PreferenceCategory>
-	<PreferenceCategory android:title="@string/settings_bg_title">
-		<ListPreference android:key="settings_playmode_key"
-		                android:defaultValue="@string/settings_playmode_fade_value"
-		                android:entries="@array/playmode_select_title"
-		                android:entryValues="@array/playmode_select_value"
-		                android:title="@string/settings_playmode"
-						android:icon="@drawable/ic_playmode"/>
-	</PreferenceCategory>
+
 	<PreferenceCategory android:title="@string/settings_ripple_title">
 		<com.alivewallpaperappinfo.CustomSwitchPreference android:key="settings_ripple_drag"
 
@@ -111,6 +104,16 @@
 			android:icon="@drawable/ic_color"
 			android:title="@string/settings_select_colors_title"/>
 	</PreferenceCategory>
+
+	<PreferenceCategory android:title="@string/settings_bg_title">
+		<ListPreference android:key="settings_playmode_key"
+			android:defaultValue="@string/settings_playmode_fade_value"
+			android:entries="@array/playmode_select_title"
+			android:entryValues="@array/playmode_select_value"
+			android:title="@string/settings_playmode"
+			android:icon="@drawable/ic_playmode"/>
+	</PreferenceCategory>
+
 	<PreferenceCategory android:title="@string/settings_daydream_title">
 		<com.alivewallpaperappinfo.CustomSwitchPreference android:key="daydream_key"
 							android:defaultValue="true"

@@ -16,24 +16,17 @@
 			android:icon="@drawable/ic_light"
 			android:title="@string/settings_brightness_title"/>
 
-		<CheckBoxPreference android:key="settings_fg_key"
-			android:defaultValue="false"
-			android:icon="@drawable/ic_fg"
-			android:title="@string/settings_fg_type_glass"/>
-		<CheckBoxPreference android:key="settings_ice_frame_key"
-			android:defaultValue="false"
-			android:icon="@drawable/ic_ice_frame"
-			android:title="@string/settings_ice_frame"/>
+		<!--<CheckBoxPreference android:key="settings_fg_key"-->
+			<!--android:defaultValue="false"-->
+			<!--android:icon="@drawable/ic_fg"-->
+			<!--android:title="@string/settings_fg_type_glass"/>-->
+		<!--<CheckBoxPreference android:key="settings_ice_frame_key"-->
+			<!--android:defaultValue="false"-->
+			<!--android:icon="@drawable/ic_ice_frame"-->
+			<!--android:title="@string/settings_ice_frame"/>-->
 	</PreferenceCategory>
 
-	<PreferenceCategory android:title="@string/settings_bg_title">
-		<ListPreference android:key="settings_playmode_key"
-		                android:defaultValue="@string/settings_playmode_fade_value"
-		                android:entries="@array/playmode_select_title"
-		                android:entryValues="@array/playmode_select_value"
-		                android:title="@string/settings_playmode"
-						android:icon="@drawable/ic_playmode"/>
-	</PreferenceCategory>
+
 	<PreferenceCategory android:title="@string/settings_ripple_title">
 		<CheckBoxPreference android:key="settings_ripple_drag"
 
@@ -111,6 +104,15 @@
 			android:entryValues="@array/color_select_value"
 			android:icon="@drawable/ic_color"
 			android:title="@string/settings_select_colors_title"/>
+	</PreferenceCategory>
+
+	<PreferenceCategory android:title="@string/settings_bg_title">
+		<ListPreference android:key="settings_playmode_key"
+			android:defaultValue="@string/settings_playmode_fade_value"
+			android:entries="@array/playmode_select_title"
+			android:entryValues="@array/playmode_select_value"
+			android:title="@string/settings_playmode"
+			android:icon="@drawable/ic_playmode"/>
 	</PreferenceCategory>
 
 	<PreferenceCategory android:title="@string/settings_remove_icon_title">

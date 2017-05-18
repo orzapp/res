@@ -119,4 +119,8 @@
     <string name="settings_reverse_title">зворотний</string>
 
     <string name="settings_advanced">розширені налаштування</string>
+
+    <string name="settings_category_general">загальний</string>
+    <string name="settings__category_advanced">просунутий</string>
+
 </resources>

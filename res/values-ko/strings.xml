@@ -117,4 +117,7 @@
 
     <string name="settings_advanced">고급 설정</string>
 
+    <string name="settings_category_general">일반</string>
+    <string name="settings__category_advanced">고급</string>
+
 </resources>

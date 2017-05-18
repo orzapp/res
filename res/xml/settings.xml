@@ -3,7 +3,7 @@
 				  android:key="soft_setting"
 				  android:title="@string/main_setting_label">
 
-	<PreferenceCategory android:title="@string/settings_fg_title">
+	<PreferenceCategory android:title="@string/settings_category_general">
 		<CheckBoxPreference android:key="settings_scroll_key"
 							android:defaultValue="true"
 							android:icon="@drawable/ic_scroll"
@@ -12,40 +12,34 @@
 							android:defaultValue="true"
 							android:icon="@drawable/ic_parallax"
 							android:title="@string/settings_particle_parallax"/>
-	</PreferenceCategory>
 
-	<PreferenceCategory android:title="@string/settings_bg_title">
-		<com.alivewallpaperappinfo.CustomMultiSelectList android:key="settings_bg_multiselect_key"
-		                           android:entries="@array/bg_select_title"
-		                           android:entryValues="@array/bg_select_value"
-		                           android:icon="@drawable/ic_selectbg"
-		                           android:title="@string/settings_bg_title"/>
-	</PreferenceCategory>
-
-	<PreferenceCategory android:title="@string/settings_ripple_title">
 		<CheckBoxPreference android:key="settings_ripple_key"
 						android:defaultValue="true"
 						android:icon="@drawable/ic_ripple"
 						android:title="@string/settings_ripple_title"/>
-	</PreferenceCategory >
 
-	<PreferenceCategory android:title="@string/settings_light_title">
 		<CheckBoxPreference android:key="settings_particle_key"
 							android:defaultValue="false"
 							android:icon="@drawable/ic_sun"
 							android:title="@string/settings_light_title"/>
-	</PreferenceCategory>
 
-	<PreferenceCategory android:title="@string/settings_particle_touch_title">
 		<CheckBoxPreference android:key="settings_effect_key"
 							android:defaultValue="true"
 							android:icon="@drawable/ic_particle"
 							android:title="@string/settings_particle_touch_title"/>
+
+		<com.alivewallpaperappinfo.CustomMultiSelectList android:key="settings_bg_multiselect_key"
+			android:entries="@array/bg_select_title"
+			android:entryValues="@array/bg_select_value"
+			android:icon="@drawable/ic_selectbg"
+			android:title="@string/settings_bg_title"/>
+
 	</PreferenceCategory>
 
-	<PreferenceCategory android:title="@string/settings_advanced" >
+	<PreferenceCategory android:title="@string/settings__category_advanced" >
 		<Preference android:key="settings_advanced"
-			android:title="@string/settings_advanced"/>
+			android:title="@string/settings_advanced"
+			android:icon="@drawable/ic_advanced"/>
 	</PreferenceCategory>
 
 	<PreferenceCategory android:title="@string/more_label">
