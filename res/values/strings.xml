@@ -139,6 +139,10 @@
 
 	<string name="settings_ice_frame">Ice Frame</string>
 	<string name="settings_advanced">Advanced Settings</string>
+
+
+	<string name="settings_category_general">General</string>
+	<string name="settings__category_advanced">Advanced</string>
 	
 	<string name="app_name">app nam</string>
 	<string name="settings_activity">com.alivewallpaperappinfo.ActivitySetting</string>

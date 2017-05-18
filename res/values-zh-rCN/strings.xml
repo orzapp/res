@@ -127,4 +127,7 @@
 
 	<string name="app_name">app name</string>
 
+	<string name="settings_category_general">常規選項</string>
+	<string name="settings__category_advanced">高級選項</string>
+
 </resources>

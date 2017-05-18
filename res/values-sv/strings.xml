@@ -115,4 +115,7 @@
     <string name="settings_reverse_title">omvänd</string>
 
     <string name="settings_advanced">avancerade inställningar</string>
+
+    <string name="settings_category_general">allmän</string>
+    <string name="settings__category_advanced">Avancerad</string>
 </resources>

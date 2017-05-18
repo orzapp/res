@@ -115,4 +115,7 @@
     <string name="settings_reverse_title">ถอยหลัง</string>
 
     <string name="settings_advanced">ตั้งค่าขั้นสูง</string>
+
+    <string name="settings_category_general">ทั่วไป</string>
+    <string name="settings__category_advanced">สูง</string>
 </resources>

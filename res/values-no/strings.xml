@@ -115,4 +115,7 @@
 
     <string name="settings_advanced">avanserte innstillinger</string>
 
+    <string name="settings_category_general">generell</string>
+    <string name="settings__category_advanced">Avansert</string>
+
 </resources>

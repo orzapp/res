@@ -114,4 +114,7 @@
     <string name="settings_reverse_title">đảo ngược</string>
 
     <string name="settings_advanced">cài đặt nâng cao</string>
+
+    <string name="settings_category_general">thông thường</string>
+    <string name="settings__category_advanced">nâng cao</string>
 </resources>

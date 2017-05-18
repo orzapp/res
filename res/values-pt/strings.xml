@@ -116,4 +116,7 @@
     <string name="settings_reverse_title">reverso</string>
 
     <string name="settings_advanced">configurações avançadas</string>
+
+    <string name="settings_category_general">geral</string>
+    <string name="settings__category_advanced">Avançado</string>
 </resources>

@@ -119,5 +119,7 @@
 
     <string name="settings_advanced">Pokročilé nastavení</string>
 
+    <string name="settings_category_general">obecná nastavení</string>
+    <string name="settings__category_advanced">pokročilé možnosti</string>
 
 </resources>

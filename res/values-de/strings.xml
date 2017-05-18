@@ -123,4 +123,7 @@
 
     <string name="settings_advanced">Erweiterte Einstellungen</string>
 
+    <string name="settings_category_general">allgemeine Einstellungen</string>
+    <string name="settings__category_advanced">erweiterte Optionen</string>
+
 </resources>
