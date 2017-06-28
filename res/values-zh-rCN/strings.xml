@@ -124,7 +124,8 @@
 	<string name="settings_playmode_wind">微风</string>
 	<string name="settings_playmode_wipe">擦除</string>
 	<string name="settings_advanced">高级设置</string>
-
+	<string name="set_livewallpaper">设置动态壁纸</string>
+	
 	<string name="app_name">app name</string>
 
 	<string name="settings_category_general">常规选项</string>
