@@ -120,6 +120,7 @@
     <string name="settings_reverse_title">marcha atrás</string>
 
     <string name="settings_advanced">Ajustes avanzados</string>
+    <string name="set_liveWallpaper">Establecer fondo de pantalla animado</string>
 
     <string name="settings_category_general">la configuración general</string>
     <string name="settings__category_advanced">opciones avanzadas</string>

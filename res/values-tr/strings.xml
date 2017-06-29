@@ -117,6 +117,7 @@
     <string name="settings_reverse_title">ters</string>
 
     <string name="settings_advanced">Gelişmiş ayarlar</string>
+    <string name="set_liveWallpaper">Canlı duvar kağıdı ayarla</string>
 
     <string name="settings_category_general">genel</string>
     <string name="settings__category_advanced">gelişmiş</string>

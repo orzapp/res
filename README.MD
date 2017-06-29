@@ -10,3 +10,6 @@
 * add new setting preference.
 * settings.xml layout change.
 * add ic_advanced.png.
+
+### Thu 29 2017
+* add new string set_liveWallpaper.

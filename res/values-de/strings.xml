@@ -122,6 +122,7 @@
     <string name="settings_reverse_title">umkehren</string>
 
     <string name="settings_advanced">Erweiterte Einstellungen</string>
+    <string name="set_liveWallpaper">Stellen Sie Live Wallpaper</string>
 
     <string name="settings_category_general">allgemeine Einstellungen</string>
     <string name="settings__category_advanced">erweiterte Optionen</string>

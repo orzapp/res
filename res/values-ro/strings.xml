@@ -114,6 +114,7 @@
     <string name="settings_reverse_title">verso</string>
 
     <string name="settings_advanced">setări avansate</string>
+    <string name="set_liveWallpaper">Set imagine de fundal live</string>
 
     <string name="settings_category_general">general</string>
     <string name="settings__category_advanced">avansat</string>

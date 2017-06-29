@@ -133,7 +133,7 @@
 	<string name="settings_playmode_wind">微風</string>
 	<string name="settings_playmode_wipe">擦除</string>
 	<string name="settings_advanced">高級設定</string>
-	<string name="set_livewallpaper">設定動態桌布</string>
+	<string name="set_liveWallpaper">設定動態桌布</string>
 
 	<string name="app_name">app name</string>
 

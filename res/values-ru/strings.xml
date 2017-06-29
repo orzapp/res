@@ -117,6 +117,7 @@
     <string name="settings_reverse_title">задний ход</string>
 
     <string name="settings_advanced">расширенные настройки</string>
+    <string name="set_liveWallpaper">Установите живые обои</string>
 
     <string name="settings_category_general">Генеральная</string>
     <string name="settings__category_advanced">передовой</string>

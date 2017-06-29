@@ -116,6 +116,7 @@
     <string name="settings_reverse_title">omgekeerde</string>
 
     <string name="settings_advanced">geavanceerde instellingen</string>
+    <string name="set_liveWallpaper">Instellen Live Wallpaper</string>
 
     <string name="settings_category_general">algemeen</string>
     <string name="settings__category_advanced">gevorderd</string>

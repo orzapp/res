@@ -118,6 +118,7 @@
     <string name="settings_reverse_title">käänteinen</string>
 
     <string name="settings_advanced">Lisäasetukset</string>
+    <string name="set_liveWallpaper">Aseta live taustakuvaksi</string>
 
     <string name="settings_category_general">yleisten asetusten</string>
     <string name="settings__category_advanced">lisäasetukset</string>

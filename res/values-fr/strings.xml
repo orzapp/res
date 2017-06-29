@@ -115,6 +115,7 @@
     <string name="settings_reverse_title">sens inverse</string>
 
     <string name="settings_advanced">options avancées</string>
+    <string name="set_liveWallpaper">Définir comme fond d'écran en direct</string>
 
     <string name="settings_category_general">paramètres généraux</string>
     <string name="settings__category_advanced">Options avancées</string>

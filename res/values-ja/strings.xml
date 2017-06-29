@@ -116,6 +116,7 @@
     <string name="settings_reverse_title">逆</string>
 
     <string name="settings_advanced">高級な設定</string>
+    <string name="set_liveWallpaper">ライブ壁紙を設定します</string>
 
     <string name="settings_category_general">一般な設定</string>
     <string name="settings__category_advanced">高級な設定</string>
