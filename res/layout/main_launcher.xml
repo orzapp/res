@@ -45,7 +45,7 @@
 						android:layout_width="match_parent"
 						android:layout_height="match_parent"
 						android:drawableTop="@drawable/ic_uselwp"
-						android:text="@string/set_livewallpaper"
+						android:text="@string/set_lwp_label"
 						android:layout_weight="1"
 						android:paddingTop="32dp"
 						android:paddingBottom="32dp"/>
@@ -63,28 +63,27 @@
 			<LinearLayout
 					android:orientation="horizontal"
 					android:layout_width="match_parent"
-					android:layout_height="match_parent">
+					android:layout_height="match_parent"
+					>
 
-					<Button
-						android:id="@+id/set_wp"
+				<Button
+					android:id="@+id/set_wp"
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					android:drawableTop="@drawable/ic_setwp"
+					android:text="@string/set_lwp_label"
+					android:layout_weight="1"
+					android:paddingTop="32dp"
+					android:paddingBottom="32dp"/>
+				<Button
+						android:id="@+id/app_devid"
 						android:layout_width="match_parent"
 						android:layout_height="match_parent"
-						android:drawableTop="@drawable/ic_setwp"
-						android:text="@string/set_lwp_label"
+						android:drawableTop="@drawable/ic_morelwp"
+						android:text="@string/recommended_title"
 						android:layout_weight="1"
 						android:paddingTop="32dp"
 						android:paddingBottom="32dp"/>
-
-					<Button
-							android:id="@+id/app_devid"
-							android:layout_width="match_parent"
-							android:layout_height="match_parent"
-							android:drawableTop="@drawable/ic_morelwp"
-							android:text="@string/recommended_title"
-							android:layout_weight="1"
-							android:paddingTop="32dp"
-							android:paddingBottom="32dp"/>
-							
 			</LinearLayout>
 			<LinearLayout
 					android:id="@+id/rec_main"
