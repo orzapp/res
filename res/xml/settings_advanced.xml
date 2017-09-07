@@ -36,7 +36,7 @@
 				/>
 		<ListPreference android:key="settings_ripple_size_key"
 
-		                android:defaultValue="55"
+		                android:defaultValue="75"
 		                android:entries="@array/ripple_size_array_title"
 		                android:entryValues="@array/ripple_size_array_values"
 		                android:icon="@drawable/ic_rsize"

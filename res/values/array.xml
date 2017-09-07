@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	
+
 	<string-array name="bg_select_title">
 		<item>1</item>
 		<item>2</item>
@@ -59,9 +59,9 @@
 		<item>@string/settings_large_title</item>
 	</string-array>
 	<string-array name="ripple_size_array_values">
-		<item>65</item>
+		<item>95</item>
+		<item>75</item>
 		<item>55</item>
-		<item>45</item>
 	</string-array>
 
 	<string-array name="ripple_sound_select_title">
